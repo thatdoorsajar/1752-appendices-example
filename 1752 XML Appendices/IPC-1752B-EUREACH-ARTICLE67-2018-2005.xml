@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<SubstanceCategoryList>
+						<SubstanceCategoryListID authority="IPC" identity="IPC-1752B/EUREACH-ARTICLE67-2018/2005"/>
+						
+						<SubstanceCategory name="Bisphenol A in thermal paper" >
+													
+					<Threshold threshold="0.02% by weight (200 ppm) in thermal paper" />
+
+								                                    <SubstanceCategoryID identity="00026" authority="IPC" />	
+																	<ApplicationID identity="01" authority="IPC"/>
+																	
+								</SubstanceCategory>						
+											
+						
+						<SubstanceCategory name="Sum of Selected Phthalates Group 1 (DIBP, BBP, DBP, DEHP)" reportableApplication="All" >
+							
+							
+							<Threshold threshold="0.1% by weight (1 000 ppm) in plasticized material" />
+							
+							<SubstanceCategoryID identity="00016" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Asbestos fibres" reportableApplication="All" >
+							
+							
+							<Threshold threshold="Intentionally added" />
+							
+							<SubstanceCategoryID identity="00002" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Dibutyltin (DBT) compounds" reportableApplication="All" >
+							
+							
+							<Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material" />
+							
+							<SubstanceCategoryID identity="00006" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Monomethyl-dibromo-diphenyl methane" reportableApplication="All" >
+							
+							
+							<Threshold threshold="No intentionally added content" />
+							
+							<SubstanceCategoryID identity="00009" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Monomethyl-dichloro-diphenyl methane" reportableApplication="All" >
+							
+							
+							<Threshold threshold="No intentionally added content" />
+							
+							<SubstanceCategoryID identity="00010" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Monomethyl-tetrachlorodiphenyl methane" reportableApplication="All" >
+							
+							
+							<Threshold threshold="No intentionally added content" />
+							
+							<SubstanceCategoryID identity="00011" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Polychlorinated terphenyls (PCTs)" reportableApplication="All" >
+							
+							
+							<Threshold threshold="No intentionally added content" />
+							
+							<SubstanceCategoryID identity="00015" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="1,2,4-Trichlorobenzene" reportableApplication="All" >
+							
+							
+							<Threshold threshold="Concentration must be less than 0.1% w/w" />
+							
+							<SubstanceCategoryID identity="00001" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Dimethyl fumarate" reportableApplication="All" >
+							
+							
+							<Threshold threshold="0.00001% by weight (0.1ppm) in a material" />
+							
+							<SubstanceCategoryID identity="00025" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Tri-substituted organostannic compounds" reportableApplication="All" >
+							
+							
+							<Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material" />
+							
+							<SubstanceCategoryID identity="00021" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Tar oils and creosotes" reportableApplication="All" >
+							
+							
+							<Threshold threshold="No content permitted in wood and wooden materials" />
+							
+							<SubstanceCategoryID identity="00018" authority="IPC"/>
+							<ApplicationID identity="01" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Benzene" reportableApplication="Childcare products and toys" >
+							
+							
+							<Threshold threshold="Content must be less than 0.0005% w/w in toys" />
+							
+							<SubstanceCategoryID identity="00004" authority="IPC"/>
+							<ApplicationID identity="02" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Dioctyltin (DOT) compounds" reportableApplication="Childcare products and toys" >
+							
+							
+							<Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material" />
+							
+							<SubstanceCategoryID identity="00008" authority="IPC"/>
+							<ApplicationID identity="02" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Selected Phthalates Group 2 (DIDP, DINP, DNOP)" reportableApplication="Childcare products and toys" >
+							
+							
+							<Threshold threshold="0.1% by weight (1 000 ppm) in plasticized material" />
+							
+							<SubstanceCategoryID identity="00017" authority="IPC"/>
+							<ApplicationID identity="02" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Any individual PAH compound" reportableApplication="Childcare products and toys" >
+							
+							
+							<Threshold threshold="0.00005% by weight (0.5 ppm) in plastic or rubber material in toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact" />
+							
+							<SubstanceCategoryID identity="00023" authority="IPC"/>
+							<ApplicationID identity="02" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Dioctyltin (DOT) compounds" reportableApplication="Leather or textiles" >
+							
+							
+							<Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material" />
+							
+							<SubstanceCategoryID identity="00007" authority="IPC"/>
+							<ApplicationID identity="03" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Azocolourants and azodyes which form certain aromatic amines" reportableApplication="Leather or textiles" >
+							
+							
+							<Threshold threshold="0.003% by weight (30 ppm) of the finished textile/leather product" />
+							
+							<SubstanceCategoryID identity="00003" authority="IPC"/>
+							<ApplicationID identity="03" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Tris(aziridinyl)phosphinoxide" reportableApplication="Leather or textiles" >
+							
+							
+							<Threshold threshold="Not permitted in textile articles which may come into contact with skin" />
+							
+							<SubstanceCategoryID identity="00020" authority="IPC"/>
+							<ApplicationID identity="03" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Tris (2,3 dibromo propyl) phosphate" reportableApplication="Leather or textiles" >
+							
+							
+							<Threshold threshold="Not permitted in textile articles which may come into contact with skin" />
+							
+							<SubstanceCategoryID identity="00019" authority="IPC"/>
+							<ApplicationID identity="03" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Any individual PAH compound" reportableApplication="Contact with skin" >
+							
+							
+							<Threshold threshold="0.0001% by weight (1 ppm) in plastic or rubber material that come into direct, prolonged or repetitive skin or oral cavity contact" />
+							
+							<SubstanceCategoryID identity="00022" authority="IPC"/>
+							<ApplicationID identity="04" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Nickel" reportableApplication="Contact with skin" >
+							
+							
+							<Threshold threshold="Intentionally added" />
+							
+							<SubstanceCategoryID identity="00012" authority="IPC"/>
+							<ApplicationID identity="04" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Benzene" reportableApplication="Substance or preparation" >
+							
+							
+							<Threshold threshold="Less than 0.1% w/w in any substance or preparation" />
+							
+							<SubstanceCategoryID identity="00005" authority="IPC"/>
+							<ApplicationID identity="05" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Pentachlorophenol (PCP) and its salts" reportableApplication="Substance or preparation" >
+							
+							
+							<Threshold threshold="0.1% w/w in any substance or preparation" />
+							
+							<SubstanceCategoryID identity="00014" authority="IPC"/>
+							<ApplicationID identity="05" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						<SubstanceCategory name="Nonylphenol and nonylphenol ethoxylates" reportableApplication="Substance or preparation" >
+							
+							
+							<Threshold threshold="Concentration must be less than  0.1% w/w" />
+							
+							<SubstanceCategoryID identity="00013" authority="IPC"/>
+							<ApplicationID identity="05" authority="IPC"/>
+							
+							
+						</SubstanceCategory>
+						</SubstanceCategoryList>
+						
+						

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?><ExemptionList><ExemptionListID authority="IPC" identity="EL2016/774"/> 
+	<Exemption identity="1(a)" description="Lead as an alloying element: Steel for machining purposes and batch hot dip galvanised steel components containing up to 0,35% lead by weight"/>
+	<Exemption identity="1(b)" description="Lead as an alloying element: Continuously galvanised steel sheet containing up to 0,35% lead by weight"/>
+	<Exemption identity="2(a)" description="Lead as an alloying element: Aluminium for machining purposes with a lead content up to 2% by weight"/>
+	<Exemption identity="2(b)" description="Lead as an alloying element: Aluminium with a lead content up to 1,5% by weight"/>
+	<Exemption identity="2(c)" description="Lead as an alloying element: Aluminium with a lead content up to 0,4% by weight"/>
+	<Exemption identity="3" description="Lead as an alloying element: Copper alloy containing up to 4% lead by weight"/>
+	<Exemption identity="4(a)" description="Lead as an alloying element: Bearing shells and bushes"/>
+	<Exemption identity="4(b)" description="Lead as an alloying element: Bearing shells and bushes in engines, transmissions and air conditioning compressors"/>
+	<Exemption identity="5" description="Lead and lead compounds in components: Batteries"/>
+	<Exemption identity="6" description="Lead and lead compounds in components: Vibration dampers"/>
+	<Exemption identity="7(a)" description="Lead and lead compounds in components: Vulcanising agents and stabilisers for elastomers in brake hoses, fuel hoses, air ventilation hoses, elastomer/metal parts in the chassis applications, and engine mountings"/>
+	<Exemption identity="7(b)" description="Lead and lead compounds in components: Vulcanising agents and stabilisers for elastomers in brake hoses, fuel hoses, air ventilation hoses, elastomer/metal parts in the chassis applications, and engine mountings containing up to 0,5% lead by weight"/>
+	<Exemption identity="7(c)" description="Lead and lead compounds in components: Bonding agents for elastomers in powertrain applications containing up to 0,5% lead by weight"/>
+	<Exemption identity="8(a)" description="Lead and lead compounds in components: Lead in solders to attach electrical and electronic components to electronic circuit boards and lead in finishes on terminations of components other than electrolyte aluminium capacitors, on component pins and on electronic circuit boards"/>
+	<Exemption identity="8(b)" description="Lead and lead compounds in components: Lead in solders in electrical applications other than soldering on electronic circuit boards or on glass"/>
+	<Exemption identity="8(c)" description="Lead and lead compounds in components: Lead in finishes on terminals of electrolyte aluminium capacitors"/>
+	<Exemption identity="8(d)" description="Lead and lead compounds in components: Lead used in soldering on glass in mass airflow sensors"/>
+	<Exemption identity="8(e)" description="Lead and lead compounds in components: Lead in high melting temperature type solders (i.e. lead-based alloys containing 85 % by weight or more lead)"/>
+	<Exemption identity="8(f)(a)" description="Lead and lead compounds in components: Lead in compliant pin connector systems"/>
+	<Exemption identity="8(f)(b)" description="Lead and lead compounds in components: Lead in compliant pin connector systems other than the mating area of vehicle harness connectors"/>
+	<Exemption identity="8(g)" description="Lead and lead compounds in components: Lead in solders to complete a viable electrical connection between semiconductor die and carrier within integrated circuit flip chip packages"/>
+	<Exemption identity="8(h)" description="Lead and lead compounds in components: Lead in solder to attach heat spreaders to the heat sink in power semiconductor assemblies with a chip size of at least 1 cm2 of projection area and a nominal current density of at least 1 A/mm2 of silicon chip area"/>
+	<Exemption identity="8(i)" description="Lead and lead compounds in components: Lead in solders in electrical glazing applications on glass except for soldering in laminated glazing"/>
+	<Exemption identity="8(j)" description="Lead and lead compounds in components: Lead in solders for soldering in laminated glazing"/>	
+	<Exemption identity="9" description="Lead and lead compounds in components: Valve seats"/>
+	<Exemption identity="10(a)" description="Lead and lead compounds in components: Electrical and electronic components which contain lead in a glass or ceramic, in a glass or ceramic matrix compound, in a glass-ceramic material, or in a glass-ceramic matrix compound.  This exemption does not cover the use of lead in: - glass in bulbs and glaze of spark plugs, - dielectric ceramic materials of components listed under 10(b), 10(c) and 10(d)."/>
+	<Exemption identity="10(b)" description="Lead and lead compounds in components: Lead in PZT based dielectric ceramic materials of capacitors being part of integrated circuits or discrete semiconductors"/>
+	<Exemption identity="10(c)" description="Lead and lead compounds in components: Lead in dielectric ceramic materials of capacitors with a rated voltage of less than 125 V AC or 250 V DC"/>
+	<Exemption identity="10(d)" description="Lead and lead compounds in components: Lead in the dielectric ceramic materials of capacitors compensating the temperature-related deviations of sensors in ultrasonic sonar systems"/>
+	<Exemption identity="11" description="Lead and lead compounds in components: Pyrotechnic initiators"/>
+	<Exemption identity="12" description="Lead and lead compounds in components: Lead-containing thermoelectric materials in automotive electrical applications to reduce CO2 emissions by recuperation of exhaust heat"/>
+	<Exemption identity="13(a)" description="Hexavalent chromium: Corrosion preventive coatings"/>
+	<Exemption identity="13(b)" description="Hexavalent chromium: Corrosion preventive coatings related to bolt and nut assemblies for chassis applications"/>
+	<Exemption identity="14" description="Hexavalent chromium: As an anti-corrosion agent of the carbon steel cooling system in absorption refrigerators in motor-caravans up to 0,75 weight-% in the cooling solution except where the use of other cooling technologies is practicable (i.e. available on the market for the application in motor caravans) and does not lead to negative environmental, health and/or consumer safety impacts"/>
+	<Exemption identity="15(a)" description="Mercury: Discharge lamps for headlight application"/>
+	<Exemption identity="15(b)" description="Mercury: Fluorescent tubes used in instrument panel displays"/>
+	<Exemption identity="16" description="Cadmium: Batteries for electrical vehicles"/>
+</ExemptionList>

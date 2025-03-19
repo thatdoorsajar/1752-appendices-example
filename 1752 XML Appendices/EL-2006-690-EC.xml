@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><ExemptionList><ExemptionListID authority="IPC" identity="EL2006/690/EC"/> 
+<Exemption identity="1" description="Mercury in compact fluorescent lamps not exceeding 5 mg per lamp." /> 
+<Exemption identity="2a" description="Mercury in straight fluorescent lamps for general purposes not exceeding 10 mg in halophosphate lamps." /> 
+<Exemption identity="2b" description="Mercury in straight fluorescent lamps for general purposes not exceeding 5 mg in triphosphate lamps with a normal lifetime." /> 
+<Exemption identity="2c" description="Mercury in straight fluorescent lamps for general purposes not exceeding 8 mg in triphosphate lamps with long lifetime." /> 
+<Exemption identity="3" description="Mercury in straight fluorescent lamps for special purposes." /> 
+<Exemption identity="4" description="Mercury in other lamps not specifically mentioned in this Annex." /> 
+<Exemption identity="5" description="Lead in glass of cathode ray tubes, electronic components and fluorescent tubes." /> 
+<Exemption identity="6a" description="Lead as an alloying element in steel containing up to 0.35 % lead by weight." /> 
+<Exemption identity="6b" description="Lead as an alloying element in aluminum containing up to 0.4 % lead by weight." /> 
+<Exemption identity="6c" description="Lead as an alloying element in copper containing up to 4 % lead by weight." /> 
+<Exemption identity="7a" description="Lead in high melting temperature type solders (i.e. lead based solder alloys containing 85 % by weight or more lead)." /> 
+<Exemption identity="7b" description="Lead in solders for servers, storage and storage array systems, network infrastructure equipment for switching, signaling, transmission as well as network management for telecommunications." /> 
+<Exemption identity="7c" description="Lead in electronic ceramic parts (e.g. piezoelectronic devices)." /> 
+<Exemption identity="8" description="Cadmium and its compounds in electrical contacts and cadmium plating except for applications banned under Directive 91/338/EEC amending Directive 76/769/EEC relating to restrictions on the marketing and use of certain dangerous substances and preparations." /> 
+<Exemption identity="9" description="Hexavalent chromium as an anti-corrosion of the carbon steel cooling system in absorption refrigerators." /> 
+<Exemption identity="9a" description="DecaBDE in polymeric applications." /> 
+<Exemption identity="9b" description="Lead in lead-bronze bearing shells and bushes." /> 
+<Exemption identity="11" description="Lead used in compliant pin connector systems." /> 
+<Exemption identity="12" description="Lead as a coating material for a thermal conduction module c-ring." /> 
+<Exemption identity="13a" description="Lead in optical and filter glass." /> 
+<Exemption identity="13b" description="Cadmium in optical and filter glass." /> 
+<Exemption identity="14" description="Lead in solders consisting of more than two elements for the connection between the pins and the package of microprocessors with a lead content of more than 80% and less than 85% by weight." /> 
+<Exemption identity="15" description="Lead in solders to complete a viable electrical connection between semiconductor die and carrier within integrated circuit Flip Chip packages." /> 
+<Exemption identity="16" description="Lead in linear incandescent lamps with silicate coated tubes." /> 
+<Exemption identity="17" description="Lead halide as radiant agent in High Intensity Discharge (HID) lamps used for professional reprography applications." /> 
+<Exemption identity="18" description="Lead as activator in the fluorescent powder (1% lead by weight or less) of discharge lamps when used as sun tanning lamps containing phosphors such as BSP (BaSi2O5:Pb) as well as when used as speciality lamps for diazo-printing reprography, lithography, insect traps, photochemical and curing processes containing phosphors such as SMS ((Sr,Ba)2MgSi2O7:Pb)." /> 
+<Exemption identity="19" description="Lead with PbBiSn-Hg and PbInSn-Hg in specific compositions as main amalgam and with PbSn-Hg as auxiliary amalgam in very compact Energy Saving Lamps (ESL)." /> 
+<Exemption identity="20" description="Lead oxide in glass used for bonding front and rear substrates of flat fluorescent lamps used for Liquid Crystal Displays (LCD)." /> 
+<Exemption identity="21" description="Lead and cadmium in printing inks for the application of enamels on borosilicate glass." /> 
+<Exemption identity="22" description="Lead as impurity in RIG (rare earth iron garnet) Faraday rotators used for fiber optic communications systems." /> 
+<Exemption identity="23" description="Lead in finishes of fine pitch components other than connectors with a pitch of 0.65 mm or less with NiFe lead frames and lead in finishes of fine pitch components other than connectors with a pitch of 0.65 mm or less with copper lead frames." /> 
+<Exemption identity="24" description="Lead in solders for the soldering to machined through-hole discoidal and planar array ceramic multilayer capacitors." /> 
+<Exemption identity="25" description="Lead oxide in plasma display panels (PDP) and surface conduction electron emitter displays (SED) used in structural elements; notably in the front and rear glass dielectric layer, the bus electrode, the black stripe, the address electrode, the barrier ribs, the seal frit and frit ring as well as in print pastes." /> 
+<Exemption identity="26" description="Lead oxide in the glass envelope of Black Light Blue (BLB) lamps." /> 
+<Exemption identity="27" description="Lead alloys as solder for transducers used in high-powered (designated to operate for several hours at acoustic power levels of 125 dB SPL and above) loudspeakers." /> 
+<Exemption identity="28" description="Hexavalent chromium in corrosion preventive coatings of unpainted metal sheetings and fasteners used for corrosion protection and Electromagnetic Interference Shielding in equipment falling under category three of Directive 2002/96/EC (IT and telecommunications equipment). Exemption granted until 1 July 2007." /> 
+<Exemption identity="29" description="Lead bound in crystal glass as defined in Annex I (Categories 1, 2, 3 and 4) of Council Directive 69/493/EEC (*)." /> 
+</ExemptionList>

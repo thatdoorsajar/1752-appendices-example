@@ -1,0 +1,150 @@
+{
+    "SubstanceCategoryList": {
+        "SubstanceCategoryListID": {
+            "_authority": "IPC",
+            "_identity": "EUREACH-ARTICLE67-2024\/2462"
+        },
+        "SubstanceCategory": [
+            {
+                "_name": "Undecafluorohexanoic acid (PFHxA) related substances",
+                "_threshold": "1 000 ppb for the sum of PFHxA-related substances measured in the homogeneous material in footwear, textiles, leather, furs and hides",
+                "_identity": "00032"
+            },
+            {
+                "_name": "Undecafluorohexanoic acid (PFHxA) and its salts",
+                "_threshold": "25 ppb for the sum of PFHxA and its salts measured in the homogeneous material in footwear, textiles, leather, furs and hides",
+                "_identity": "00031"
+            },
+            {
+                "_name": "formaldehyde and formaldehyde releasers",
+                "_threshold": "The concentration of formaldehyde released must not exceed 0.080 mg\/m3",
+                "_identity": "00030"
+            },
+            {
+                "_name": "Lead and its compounds in PVC",
+                "_threshold": "0.1% by weight of the PVC material",
+                "_identity": "00029"
+            },
+            {
+                "_name": "Nonylphenol and nonylphenol ethoxylates in Textile Articles that can be washed in water during normal lifecycle",
+                "_threshold": "Concentration must be less than 0.01% w\/w",
+                "_identity": "00028"
+            },
+            {
+                "_name": "Sum of perfluorocarboxylic acids containing 9 to 14 carbon atoms",
+                "_threshold": "0.0000025% by weight (25ppb) of any article",
+                "_identity": "00027"
+            },
+            {
+                "_name": "Bisphenol A in thermal paper",
+                "_threshold": "0.02% by weight (200 ppm) in thermal paper",
+                "_identity": "00026"
+            },
+            {
+                "_name": "Sum of Selected Phthalates Group 1 (DIBP, BBP, DBP, DEHP)",
+                "_threshold": "0.1% by weight (1 000 ppm) in plasticized material",
+                "_identity": "00025"
+            },
+            {
+                "_name": "Dimethyl fumarate",
+                "_threshold": "0.00001% by weight (0.1ppm) in a material",
+                "_identity": "00024"
+            },
+            {
+                "_name": "Any individual PAH compound - toys and childcare articles",
+                "_threshold": "0.00005% by weight (0.5 ppm) in plastic or rubber material in toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact",
+                "_identity": "00022"
+            },
+            {
+                "_name": "Any individual PAH compound",
+                "_threshold": "0.0001% by weight (1 ppm) in plastic or rubber material that come into direct, prolonged or repetitive skin or oral cavity contact",
+                "_identity": "00021"
+            },
+            {
+                "_name": "Tri-substituted organostannic compounds",
+                "_threshold": "0.1% by weight (1 000 ppm) of tin in a material",
+                "_identity": "00020"
+            },
+            {
+                "_name": "Tris(aziridinyl)phosphinoxide",
+                "_threshold": "Not permitted in textile articles which may come into contact with skin",
+                "_identity": "00019"
+            },
+            {
+                "_name": "Tris (2,3 dibromo propyl) phosphate",
+                "_threshold": "Not permitted in textile articles which may come into contact with skin",
+                "_identity": "00018"
+            },
+            {
+                "_name": "Tar oils and creosotes",
+                "_threshold": "No content permitted in wood and wooden materials",
+                "_identity": "00017"
+            },
+            {
+                "_name": "Selected Phthalates Group 2 (DIDP, DINP, DNOP)",
+                "_threshold": "0.1% by weight (1 000 ppm) in plasticized material",
+                "_identity": "00016"
+            },
+            {
+                "_name": "Polychlorinated terphenyls (PCTs)",
+                "_threshold": "Intentionally added",
+                "_identity": "00014"
+            },
+            {
+                "_name": "Nonylphenol and nonylphenol ethoxylates in Substances or Preparations",
+                "_threshold": "Concentration must be less than  0.1% w\/w",
+                "_identity": "00012"
+            },
+            {
+                "_name": "Nickel, where prolonged skin contact is expected",
+                "_threshold": "Intentionally added",
+                "_identity": "00011"
+            },
+            {
+                "_name": "Monomethyl-tetrachlorodiphenyl methane",
+                "_threshold": "No content permitted",
+                "_identity": "00010"
+            },
+            {
+                "_name": "Monomethyl-dichloro-diphenyl methane",
+                "_threshold": "No content permitted",
+                "_identity": "00009"
+            },
+            {
+                "_name": "Monomethyl-dibromo-diphenyl methane",
+                "_threshold": "No content permitted",
+                "_identity": "00008"
+            },
+            {
+                "_name": "Dioctyltin (DOT) compounds",
+                "_threshold": "0.1% by weight (1 000 ppm) of tin in a material",
+                "_identity": "00007"
+            },
+            {
+                "_name": "Dibutyltin (DBT) compounds",
+                "_threshold": "0.1% by weight (1 000 ppm) of tin in a material",
+                "_identity": "00005"
+            },
+            {
+                "_name": "Benzene",
+                "_threshold": "Content must be less than 0.0005% w\/w in toys and less than 0.1% w\/w in any substance or preparation",
+                "_identity": "00004"
+            },
+            {
+                "_name": "Azocolourants and azodyes which form certain aromatic amines",
+                "_threshold": "0.003% by weight (30 ppm) of the finished textile\/leather product",
+                "_identity": "00003"
+            },
+            {
+                "_name": "Asbestos fibres",
+                "_threshold": "Intentionally added",
+                "_identity": "00002"
+            },
+            {
+                "_name": "1,2,4-Trichlorobenzene",
+                "_threshold": "Concentration must be less than 0.1% w\/w",
+                "_identity": "00001"
+            }
+        ]
+    }
+}

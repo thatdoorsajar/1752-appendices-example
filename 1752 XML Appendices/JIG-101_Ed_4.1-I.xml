@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<SubstanceCategoryList> <SubstanceCategoryListID authority="IPC" identity="JIG-101_Ed_4.1-I"/> 
+<SubstanceCategory name="Beryllium oxide (BeO)"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>  
+<SubstanceCategory name="Brominated flame retardants (other than PBBs, PBDEs or HBCDD)"> <Threshold threshold="0.1% total bromine content by weight (1 000 ppm) in the plastic material"/> </SubstanceCategory>  
+<SubstanceCategory name="Brominated flame retardants (other than PBBs, PBDEs or HBCDD) - PWB"> <Threshold threshold="0.09% total bromine content by weight (900 ppm) in the laminate"/> </SubstanceCategory>
+<SubstanceCategory name="Chlorinated flame retardants"> <Threshold threshold="0.1% total chlorine content by weight (1 000 ppm) in the plastic material"/> </SubstanceCategory>
+<SubstanceCategory name="Chlorinated flame retardants - PWB"> <Threshold threshold="0.09% total chlorine content by weight (900 ppm) in the laminate"/> </SubstanceCategory>
+<SubstanceCategory name="Polyvinyl chloride (PVC) and PVC Copolymers"> <Threshold threshold="0.1% total chlorine content by weight (1 000 ppm) in the plastic material"/></SubstanceCategory>
+</SubstanceCategoryList>

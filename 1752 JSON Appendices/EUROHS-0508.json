@@ -1,0 +1,40 @@
+{
+    "SubstanceCategoryList": {
+        "SubstanceCategoryListID": {
+            "_authority": "IPC",
+            "_identity": "EUROHS-0508"
+        },
+        "SubstanceCategory": [
+            {
+                "_name": "Mercury\/mercury compounds",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00006"
+            },
+            {
+                "_name": "Lead\/lead compounds",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00005"
+            },
+            {
+                "_name": "Chromium VI compounds",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00004"
+            },
+            {
+                "_name": "Polybrominated diphenyl ethers (PBDEs)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00003"
+            },
+            {
+                "_name": "Polybrominated biphenyls (PBBs)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00002"
+            },
+            {
+                "_name": "Cadmium\/cadmium compounds",
+                "_threshold": "0.01% by weight (100 ppm) of homogenous materials",
+                "_identity": "00001"
+            }
+        ]
+    }
+}

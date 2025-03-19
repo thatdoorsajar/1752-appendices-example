@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<SubstanceCategoryList> <SubstanceCategoryListID authority="IPC" identity="JIG-101_Ed_4.1-R"/> 
+<SubstanceCategory name="Asbestos"> <Threshold threshold="Intentionally added"/> </SubstanceCategory> 
+<SubstanceCategory name="Azocolourants and azodyes which form certain aromatic amines"> <Threshold threshold="0.003% by weight (30 ppm) of the finished textile/leather article"/> </SubstanceCategory> 
+<SubstanceCategory name="1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich (DIHP)"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters (DHNUP)"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Bis(2-methoxyethyl) ether"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Bis(2-methoxyethyl) phthalate"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Boric acid"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>  
+<SubstanceCategory name="Cadmium/cadmium compounds- All, except batteries"> <Threshold threshold= "0.01% by weight (100 ppm) of homogeneous materials"/> </SubstanceCategory>  
+<SubstanceCategory name="Cadmium/cadmium compounds- Batteries"> <Threshold threshold="0.001 % by weight (10 ppm) of battery"/> </SubstanceCategory>
+<SubstanceCategory name="Chromium VI Compounds"> <Threshold threshold="0.1% by weight (1 000 ppm) of homogeneous materials"/> </SubstanceCategory>  
+<SubstanceCategory name="Cobalt dichloride (CoCl2)"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Diarsenic pentoxide"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>
+<SubstanceCategory name="Diarsenic trioxide"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>
+<SubstanceCategory name="Dibutyltin (DBT) compounds"> <Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material"/> </SubstanceCategory> 
+<SubstanceCategory name="Dioctyltin (DOT) compounds"> <Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material"/> </SubstanceCategory> 
+<SubstanceCategory name="2,2'-dichloro-4,4'-methylenedianiline (MOCA)"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="N,N-dimethylacetamide (DMAC)"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Dimethyl fumarate"> <Threshold threshold= "0.00001% by weight (0.1 ppm) in a material"/> </SubstanceCategory> 
+<SubstanceCategory name="Disodium tetraborate, anhydrous"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Fluorinated greenhouse gases (PFC, SF6, HFC)"> <Threshold threshold="Intentionally added"/> </SubstanceCategory>  
+<SubstanceCategory name="Formaldehyde- Composite wood"> <Threshold threshold="Intentionally added"/> </SubstanceCategory> 
+<SubstanceCategory name="Formaldehyde- Textiles"> <Threshold threshold= "0.0075 % by weight (75 ppm) of textile product"/> </SubstanceCategory>  
+<SubstanceCategory name="Hexabromocyclododecane (HBCDD) and all major diastereoisomers"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>  
+<SubstanceCategory name="Lead/lead compounds- All, except batteries"> <Threshold threshold= "0.1% by weight (1 000 ppm) of homogeneous materials"/> </SubstanceCategory> 
+<SubstanceCategory name="Lead/lead compounds in consumer products designed or intended primarily for children 12 years of age or younger"> <Threshold threshold= "0.03% by weight (300 ppm) of children's product"/> </SubstanceCategory> 
+<SubstanceCategory name="Lead/lead compounds in paint and similar surface coatings of toys and other articles intended for use by children"> <Threshold threshold= "0.009% by weight (90 ppm) of surface coating"/> </SubstanceCategory> 
+<SubstanceCategory name="Lead/Lead compounds in cables/cords with thermoset or thermoplastic coatings"> <Threshold threshold= "0.03% by weight (300 ppm) of surface coating"/> </SubstanceCategory> 
+<SubstanceCategory name="Lead/lead compounds- Batteries"> <Threshold threshold="0.004% by weight (40 ppm) of battery"/> </SubstanceCategory>  
+<SubstanceCategory name="Lead chromate"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>  
+<SubstanceCategory name="Lead chromate molybdate sulfate red (C.I. Pigment Red 104)"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>  
+<SubstanceCategory name="Lead sulfochromate yellow (C.I. Pigment Yellow 34)"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>  
+<SubstanceCategory name="Mercury/mercury compounds- All, except batteries"> <Threshold threshold="Intentionally added or 0.1% (1 000 ppm) of homogeneous material"/> </SubstanceCategory> 
+<SubstanceCategory name="Mercury/mercury compounds- Batteries"> <Threshold threshold= "0.0001% by weight (1 ppm) of battery"/> </SubstanceCategory>
+<SubstanceCategory name="Nickel, where prolonged skin contact is expected"> <Threshold threshold="Intentionally added"/> </SubstanceCategory>  
+<SubstanceCategory name="Ozone depleting substances"> <Threshold threshold="Intentionally added"/> </SubstanceCategory>  
+<SubstanceCategory name="Perchlorates"> <Threshold threshold= "0.0000006 % by weight (0.006 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Pentazinc chromate octahydroxide"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Perfluorooctane sulfonate (PFOS)"> <Threshold threshold="Intentionally added"/> </SubstanceCategory> 
+<SubstanceCategory name="Phenol,2-(2H-benzotriazol-2-yl)-4,6-bis(1,1-dimethylethyl)"> <Threshold threshold="Intentionally added"/> </SubstanceCategory>
+<SubstanceCategory name="Bis (2-ethylhexyl) phthalate (DEHP)"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>
+<SubstanceCategory name="Dibutyl phthalate (DBP)"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>
+<SubstanceCategory name="Benzyl butyl phthalate (BBP)"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>
+<SubstanceCategory name="Diisobutyl phthalate (DIBP)"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Selected Phthalates Group 1 (BBP, DBP, DEHP)"> <Threshold threshold="0.1% by weight (1 000 ppm) in plasticized material"/> </SubstanceCategory> 
+<SubstanceCategory name="Selected Phthalates Group 2 (DIDP, DINP, DNOP)"> <Threshold threshold="0.1% by weight (1 000 ppm) in plasticized material"/> </SubstanceCategory> 
+<SubstanceCategory name="Polybrominated biphenyls (PBBs)"> <Threshold threshold="0.1% by weight (1 000 ppm) of homogeneous materials"/> </SubstanceCategory> 
+<SubstanceCategory name="Polybrominated diphenylethers (PBDEs)"> <Threshold threshold="0.1% by weight (1 000 ppm) of homogeneous materials"/> </SubstanceCategory>  
+<SubstanceCategory name="Polychlorinated biphenyls (PCBs) and specific substitutes"> <Threshold threshold="Intentionally added"/> </SubstanceCategory>  
+<SubstanceCategory name="Polychlorinated terphenyls (PCTs)"> <Threshold threshold="Intentionally added"/> </SubstanceCategory> 
+<SubstanceCategory name="Polychlorinated naphthalenes (more than 3 chlorine atoms)"> <Threshold threshold="Intentionally added"/> </SubstanceCategory> 
+<SubstanceCategory name="Potassium hydroxyoctaoxodizincate dichromate"> <Threshold threshold="Intentionally added"/> </SubstanceCategory> 
+<SubstanceCategory name="Radioactive substances">  <Threshold threshold="Intentionally added"/> </SubstanceCategory>
+<SubstanceCategory name="Refractory Ceramic Fibres, Aluminosilicate"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>
+<SubstanceCategory name="Refractory Ceramic Fibres, Zirconia Aluminosilicate"> <Threshold threshold= "0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+<SubstanceCategory name="Shortchain chlorinated paraffins (C10 - C13)"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>
+<SubstanceCategory name="Strontium chromate">  <Threshold threshold="Intentionally added"/> </SubstanceCategory>
+<SubstanceCategory name="Tetraboron disodium heptaoxide, hydrate"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>
+<SubstanceCategory name="Tri-substituted organnostannic compounds"> <Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material"/> </SubstanceCategory>   
+<SubstanceCategory name="4-(1,1,3,3-tetramethylbutyl)phenol, (4-tert-Octylphenol)">  <Threshold threshold="Intentionally added"/> </SubstanceCategory>
+<SubstanceCategory name="Tributyl tin oxide (TBTO)"> <Threshold threshold="Intentionally added or 0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory>
+<SubstanceCategory name="Tris (2-chloroethyl) phosphate (TCEP)"> <Threshold threshold="0.1% by weight (1 000 ppm) of the product"/> </SubstanceCategory> 
+</SubstanceCategoryList>    

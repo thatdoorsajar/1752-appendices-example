@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?> <SubstanceCategoryList>
+				<SubstanceCategoryListID authority="IPC" identity="EUREACH-ARTICLE67-207/2011" />
+							<SubstanceCategory name="Asbestos" >
+													
+					<Threshold threshold="Intentionally added"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Selected Phthalates Group 1 (BBP, DBP, DEHP)" >
+																							
+					<Threshold threshold="0.1% by weight (1 000 ppm) in plasticized material" />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Selected Phthalates Group 2 (DIDP, DINP, DNOP)" >
+													
+					<Threshold threshold="0.1% by weight (1 000 ppm) in plasticized material"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Dibutyltin (DBT) compounds" >
+													
+					<Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Dioctyltin (DOT) compounds" >
+													
+					<Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Monomethyl-dibromo-diphenyl methane" >
+													
+					<Threshold threshold="No content permitted"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Monomethyl-dichloro-diphenyl methane" >
+													
+					<Threshold threshold="No content permitted"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Monomethyl-tetrachlorodiphenyl methane" >
+													
+					<Threshold threshold="No content permitted"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Polychlorinated terphenyls (PCTs)" >
+													
+					<Threshold threshold="Intentionally added"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Azocolourants and azodyes which form certain aromatic amines" >
+													
+					<Threshold threshold="0.003% by weight (30 ppm) of the finished textile/leather product"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Nickel, where prolonged skin contact is expected" >
+													
+					<Threshold threshold="Intentionally added"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Tris(aziridinyl)phosphinoxide" >
+													
+					<Threshold threshold="Not permitted in textile articles which may come into contact with skin"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Tris (2,3 dibromo propyl) phosphate" >
+													
+					<Threshold threshold="Not permitted in textile articles which may come into contact with skin"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Dimethyl fumarate" >
+													
+					<Threshold threshold="0.00001% by weight (0.1ppm) in a material"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Tri-substituted organostannic compounds" >
+													
+					<Threshold threshold="0.1% by weight (1 000 ppm) of tin in a material"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Pentachlorophenol (PCP) and its salts" >
+													
+					<Threshold threshold="0.1% w/w in any substance or preparation"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Tar oils and creosotes" >
+													
+					<Threshold threshold="No content permitted in wood and wooden materials"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Benzene" >
+													
+					<Threshold threshold="Content must be less than 0.0005% w/w in toys and less than 0.1% w/w in any substance or preparation"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="Nonylphenol and nonylphenol ethoxylates" >
+													
+					<Threshold threshold="Concentration must be less than  0.1% w/w"   />
+
+								
+				</SubstanceCategory>
+							<SubstanceCategory name="1,2,4-Trichlorobenzene" >
+													
+					<Threshold threshold="Concentration must be less than 0.1% w/w"   />
+
+								
+				</SubstanceCategory>
+						</SubstanceCategoryList>
+						

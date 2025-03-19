@@ -1,0 +1,2552 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DeclarableSubstances>
+<el>
+<ID>00001</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Diarsenic pentoxide</SpecificSubstance>
+<CASnumber>1303-28-2</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Additive in wood, metal, glass and plastics</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Updated typical EEE applications</Comments>
+</el>
+<el>
+<ID>00002</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Diarsenic trioxide</SpecificSubstance>
+<CASnumber>1327-53-3</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Additive in wood, metal, glass and plastics</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Updated typical EEE applications</Comments>
+</el>
+<el>
+<ID>00003</ID>
+<SubstanceGroup>Asbestos</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Insulator, filler, pigment, paint, talc</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006. United States: Toxic Substances Control Act (TSCA); Switzerland Ordinance on Reduction of Risks from Chemical Products (ORRChim)</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: This declarable substance group has a complete list of substances that is specified in the reference substance list
+D11.00: ReportingLevel added.
+D2.00: Updated typical EEE applications; removed reference in Informative Description of Basis to Japanese Industrial Safety and Health Law</Comments>
+</el>
+<el>
+<ID>00004</ID>
+<SubstanceGroup>Azocolourants and azodyes which form certain aromatic amines</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Pigment, dyes, colorants</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006</BasisDescription>
+<ReportableApplications>Textiles and Leather</ReportableApplications>
+<ReportingThreshold>0.003% by weight of the finished textile/leather product</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: The European Community's ban applies to azocolorants and azodyes that by reductive cleavage of azo groups may release one of the aromatic amines listed as references. The threshold level given applies to these amines, not to the azocolorants and azodyes. 
+Note: This declarable substance group has a complete list of substances that is specified in the reference substance list
+D11.00: ReportingLevel added.
+D4.00: A new line character was removed from the end of the substance group name.</Comments>
+</el>
+<el>
+<ID>00005</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Beryllium Oxide</SpecificSubstance>
+<CASnumber>1304-56-9</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Ceramics</TypicalApplications>
+<Basis>Criteria 3: For Information Only</Basis>
+<BasisDescription>European Industry Agreement (DIGITIALEUROPE (formerly EICTA), CECED and EERA Joint Position Guidance on implementing article 11 of Directive 2002/96(EC) concerning information for treatment facilities) -2005</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass%</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Optional</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.</Comments>
+</el>
+<el>
+<ID>00007</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Boric Acid</SpecificSubstance>
+<CASnumber>10043-35-3, 11113-50-1</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>In wood veneers/ pressed wooden panels as starch additive, flame retardant and stabilizer in aminoplastic resin, wood preservative, as flame retardant in wood, cotton and other plant derived material</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2011-10-14</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00 - correction made to CAS# entries (CR00140)</Comments>
+</el>
+<el>
+<ID>00008</ID>
+<SubstanceGroup>Brominated flame retardants (other than PBBs, PBDEs, or HBCDD)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Flame retardant in printed wiring board laminate</TypicalApplications>
+<Basis>Criteria 3: For Information Only</Basis>
+<BasisDescription>Industry Standards IEC 61249-2-21 and IPC-4101</BasisDescription>
+<ReportableApplications>Printed wiring board laminate</ReportableApplications>
+<ReportingThreshold>0.09 mass% total bromine content in laminate</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Optional</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+2013-06-10: Modified in version D4.00 to better describe the declarable substance group and to match with naming used in JIG-101 Ed. 4.1. 
+A printed wiring board laminate refers to the layered board materials excluding surface finishes and components whereas a printed wiring board assembly refers to an assembly that uses a printed wiring board laminate for component mounting and interconnecting  purposes</Comments>
+</el>
+<el>
+<ID>00009</ID>
+<SubstanceGroup>Brominated flame retardants (other than PBBs, PBDEs, or HBCDD)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Flame retardant for housing, connectors, package molding sealing</TypicalApplications>
+<Basis>Criteria 3: For Information Only</Basis>
+<BasisDescription>Joint JEDEC/ECA JS-709A Standard Defining &#8220;Low Halogen&#8221; Electronics</BasisDescription>
+<ReportableApplications>Plastic materials except printed wiring board laminates</ReportableApplications>
+<ReportingThreshold>0.1 mass% of bromine in plastic materials</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Optional</ReportingRequirement>
+<FirstAdded>2011-10-14</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D7.00: clarified reporting threshold to specify material 
+2013-06-10: Modified in version D4.00 to better describe the declarable substance group and to match with naming used in JIG-101 Ed. 4.1. 
+Modified in Version D3.00 (CR00011) to combine two previous Brominated Flame Retardants (BFR) - other entries 
+A printed wiring board laminate refers to the layered board materials excluding surface finishing and components</Comments>
+</el>
+<el>
+<ID>00010</ID>
+<SubstanceGroup>Cadmium/Cadmium compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Pigments, anti-corrosion surface treatments, optical glass, heat stabilizers, plating, fluorescent materials, electrodes, low melting solders, electric contacts, zinc plating, photoelectric applications, phosphor coatings, bearing alloys</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its amendments); ANNEX XVII of REACH Regulation (EC) No 1907/2006; China Management Measures on EIP Pollution Control; California Electronic Waste Recycling Act SB 20, amended by SB 50 and AB 575; . Revised law for Promotion of Effective Utilization of Resources(J-Moss)</BasisDescription>
+<ReportableApplications>All, except batteries</ReportableApplications>
+<ReportingThreshold>0.01 mass% of total Cd in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D10.00: Editorial update of basis description to recast RoHS Directive 2011/65/EU
+D6.00: Updated typical EEE applications</Comments>
+</el>
+<el>
+<ID>00011</ID>
+<SubstanceGroup>Cadmium/Cadmium compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Relay contact; photodiode voltaic cell, Ni/Cd battery</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2006/66/EC EU Battery Directive and Korean Quality Management and Safety Control of Industrial Products Act</BasisDescription>
+<ReportableApplications>Batteries</ReportableApplications>
+<ReportingThreshold>0.001% by weight of battery</ReportingThreshold>
+<ReportingLevel>Product Part</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Version D6.00: Updated typical applications
+Updated reporting threshold in Version D3.00 (C00003)
+The battery reporting threshold level is based on the strictest known legal requirement. However, for simplification, the same reporting threshold level is set for all kind of batteries, even if the underlying legal requirement is only applicable for only one specific battery type.</Comments>
+</el>
+<el>
+<ID>00012</ID>
+<SubstanceGroup>Chromium (VI) Compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Pigment, paint, ink, catalyst, plating, anticorrosion surface treatment, dye, paint dryer, surface treatment</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its amendments); China Management Measures on EIP Pollution Control; California Electronic Waste Recycling Act SB 20, amended by SB 50 and AB 575; Revised law for Promotion of Effective Utilization of Resources(JMoss); Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of total Cr+6 in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D10.00: Editorial update of basis description to recast RoHS Directive 2011/65/EU
+Updated typical EEE applications and description of basis</Comments>
+</el>
+<el>
+<ID>00013</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Cobalt dichloride</SpecificSubstance>
+<CASnumber>7646-79-9</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Pneumatic panels to indicate water contamination</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00014</ID>
+<SubstanceGroup>Dibutyltin (DBT) compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms>DBT</CommonSynonyms>
+<TypicalApplications>Stabilizer for PVC, curing catalyst for silicone resin and urethane resin</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 276/2010</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of tin in the part</ReportingThreshold>
+<ReportingLevel>Product Part</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Reporting threshold modified in version D5.00</Comments>
+</el>
+<el>
+<ID>00015</ID>
+<SubstanceGroup>Dioctyltin (DOT) compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms>DOT</CommonSynonyms>
+<TypicalApplications>Stabilizer for PVC, curing catalyst for silicone resin and urethane resin</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 276/2010</BasisDescription>
+<ReportableApplications>(a) textile and leather articles intended to come into contact with the skin,,(b) childcare articles,(c) two-component room temperature vulcanisation moulding kits (RTV-2 moulding kits)</ReportableApplications>
+<ReportingThreshold>0.1 mass% of tin in the part</ReportingThreshold>
+<ReportingLevel>Product Part</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Reporting threshold modified in version D5.00</Comments>
+</el>
+<el>
+<ID>00016</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Dimethyl Fumarate (DMF)</SpecificSubstance>
+<CASnumber>624-49-7</CASnumber>
+<CommonSynonyms>DMF</CommonSynonyms>
+<TypicalApplications>Biocide, mold prevention treatment of electronic leather seats,  including recliners, massage chairs</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>COMMISSION DECISION 2009/251/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.00001 mass%  of the part</ReportingThreshold>
+<ReportingLevel>Product Part</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Corrected spelling of dimethyl fumarate; updated typical EEE applications.</Comments>
+</el>
+<el>
+<ID>00017</ID>
+<SubstanceGroup>Disodium tetraborates</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>In wood veneers/ pressed wooden panels as starch additive, flame retardant and tabilizer in aminoplastic resin, wood preservative</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2011-10-14</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article.</Comments>
+</el>
+<el>
+<ID>00018</ID>
+<SubstanceGroup>Fluorinated Greenhouse Gases (PFC, SF6, HFC)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Refrigerants, blowing agents, extinguishing agents, cleaning agents, insulating media, caustic gas</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>EU Reg. No. 842/2006</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally Added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Updated typical EEE applications.</Comments>
+</el>
+<el>
+<ID>00019</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Formaldehyde</SpecificSubstance>
+<CASnumber>50-00-0</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Textiles</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Lithuanian Hygiene Norm HN 96:2000 (Hygiene standards and regulations); Austria - BGB I 1990/194: Formaldehydverordnung, §2, 12/2/1990</BasisDescription>
+<ReportableApplications>Textiles</ReportableApplications>
+<ReportingThreshold>0.0075 mass % of textile</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.</Comments>
+</el>
+<el>
+<ID>00020</ID>
+<SubstanceGroup>Hexabromocyclododecane (HBCDD) and all major diastereoisomers identified: Alpha-hexabromocyclododecane Beta-hexabromocyclododecane Gamma-hexabromocyclododecane</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Flame retardant; mainly used for expanded polystyrene and some types of fiber</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>The Law Concerning the Examination and Regulation of Manufacture, etc of 
+Chemical Substances Control Law; Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added or 0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: This declarable substance group has a complete list of substances that is specified in the reference substance list
+D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D7.00: reporting threshold is updated; 
+D4.00: A new line character was removed from the end of the substance group name.</Comments>
+</el>
+<el>
+<ID>00021</ID>
+<SubstanceGroup>Lead/Lead Compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Rubber hardener, pigment, paint, lubricant, plastic stabilizer, materials for battery, free-machining alloy, free-cutting steels, optical materials, X-ray shielding in CRT glass, electrical solder material, mechanical solder materials, curing agent, vulcanizing agent, ferroelectrics, resin stabilizer, plating, metal alloy, resin additives</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its amendments); China Management Measures on EIP Pollution Control;  California Electronic Waste Recycling Act SB 20, amended by SB 50 and AB 575; Revised law for Promotion of Effective Utilization of Resources(J-Moss); ANNEX XVII of REACH Regulation (EC) No 1907/2006</BasisDescription>
+<ReportableApplications>All, except  for: 1. batteries, 2. surface coating material of cables/cords with thermoset or thermoplastic coatings, and 3. paint and similar surface coatings of toys and other articles intended for use by children</ReportableApplications>
+<ReportingThreshold>0.1 mass% of total Pb in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2017-01-12</LastRevised>
+<Comments>D13.00: Updated the Reportable Application to align the exclusions with the reportable applications specified in other Lead/lead Compounds entries (with IDs: 00023, 00024, 00025)
+D11.00: ReportingLevel added.
+D10.00: Editorial update of basis description to recast RoHS Directive 2011/65/EU
+Updated typical EEE applications and description of basis.  Editorial clarification for reportable application
+Some lead compounds are also considered Substances of Very High Concern (SVHC) under EU REACH Regulation.  See notes in reference substances tab for more information.</Comments>
+</el>
+<el>
+<ID>00022</ID>
+<SubstanceGroup>Lead/Lead Compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Pigment, paint, stabilizer, colorant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>U.S. Consumer Product Safety Improvement Act as modified by 76 FR 44463</BasisDescription>
+<ReportableApplications>Consumer products designed or intended primarily for children 12 years of age or younger</ReportableApplications>
+<ReportingThreshold>0.01 mass%</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+2013-06-10 Updated reporting threshold (CR00047)</Comments>
+</el>
+<el>
+<ID>00023</ID>
+<SubstanceGroup>Lead/Lead Compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Pigment, paint, stabilizer, colorant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>U.S. Consumer Product Safety Improvement Act</BasisDescription>
+<ReportableApplications>Paint and similar surface coatings of toys and other articles intended for use by children</ReportableApplications>
+<ReportingThreshold>0.009 mass% of surface coating material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Updated typical EEE applications and description of basis.  Editorial clarification for reportable application.</Comments>
+</el>
+<el>
+<ID>00024</ID>
+<SubstanceGroup>Lead/Lead Compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Cables/cords</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>US/CA Proposition 65 Case law</BasisDescription>
+<ReportableApplications>Cables/cords with thermoset or thermoplastic coatings</ReportableApplications>
+<ReportingThreshold>0.03 mass% of surface coating material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Updated typical EEE applications and description of basis.  Editorial clarification for reportable application.</Comments>
+</el>
+<el>
+<ID>00025</ID>
+<SubstanceGroup>Lead/Lead Compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Zinc carbon batteries, alkaline button cells</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2006/66/EC EU Battery Directive; Chinese Standard GB 24427-2009 &#8220;Limitation of mercury, cadmium and lead contents for alkaline and non-alkaline zinc manganese dioxide batteries</BasisDescription>
+<ReportableApplications>Batteries</ReportableApplications>
+<ReportingThreshold>0.004 mass% of battery</ReportingThreshold>
+<ReportingLevel>Product Part</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Updated typical EEE applications and description of basis.  Editorial clarification for reportable application.
+The battery reporting threshold level is based on the strictest known legal requirement. However, for simplification, the same reporting threshold level is set for all kind of batteries, even if the underlying legal requirement is only applicable for only one specific battery type.</Comments>
+</el>
+<el>
+<ID>00026</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Lead chromate</SpecificSubstance>
+<CASnumber>7758-97-6</CASnumber>
+<CommonSynonyms>Lead (II) chromate</CommonSynonyms>
+<TypicalApplications>Colorant in plastics; Colorant in paint</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: This substance contains lead and chromium which is also subject to "RoHS" regulation which may have a more stringent reporting threshold.  Manufactuers should evaluate this substance against both reporting thresholds. 
+D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00027</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Lead chromate molybdate sulphate red (C.I. Pigment Red 104)</SpecificSubstance>
+<CASnumber>12656-85-8</CASnumber>
+<CommonSynonyms>Lead chromate molybdate sulphate red</CommonSynonyms>
+<TypicalApplications>Colorant in plastics; Colorant in red paint</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+Updated typical EEE applications.
+This substance contains lead and chromium which is also subject to "RoHS" regulation which may have a more stringent reporting threshold.  Manufactuers should evaluate this substance against both reporting thresholds.</Comments>
+</el>
+<el>
+<ID>00028</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Lead sulfochromate yellow (C.I. Pigment Yellow 34)</SpecificSubstance>
+<CASnumber>1344-37-2</CASnumber>
+<CommonSynonyms>Lead sulfochromate yellow</CommonSynonyms>
+<TypicalApplications>Colorant in plastics; Colorant in yellow paint</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+Updated typical EEE applications.
+This substance contains lead and chromium which is also subject to "RoHS" regulation which may have a more stringent reporting threshold.  Manufactuers should evaluate this substance against both reporting thresholds.</Comments>
+</el>
+<el>
+<ID>00029</ID>
+<SubstanceGroup>Mercury/Mercury Compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Fluorescent bulb, contact point material, pigment, anti-corrosion, switches, antibacterial treatment</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its amendments); ANNEX XVII of REACH Regulation (EC) No 1907/2006; China Management Measures on EIP Pollution Control; California Electronic Waste Recycling Act SB 20, amended by SB 50 and AB 575; Revised law for Promotion of Effective Utilization of Resources(JMoss); Canadian Products Containing Mercury Regulations (SOR/2014-254)</BasisDescription>
+<ReportableApplications>All, except batteries</ReportableApplications>
+<ReportingThreshold>Intentionally Added or 0.1 mass% of total Hg in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>When two reporting thresholds are listed, the manufacturer needs to evaluate their products against both thresholds.  Reporting is required if one or both thresholds are exceeded.
+D11.00: ReportingLevel added.
+D10.00: Editorial update of basis description to recast RoHS Directive 2011/65/EU
+D9.00: added Canadian regulation to Basis Description</Comments>
+</el>
+<el>
+<ID>00030</ID>
+<SubstanceGroup>Mercury/Mercury Compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Silver-oxide button cells, alkaline batteries, zinc carbon batteries</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Taiwan Restrictions on the Manufacture, Import, and Sale of Dry Cell Batteries; Chinese Standard GB 24427-2009 &#8220;Limitation of mercury, cadmium and lead contents for alkaline and non-alkaline zinc manganese dioxide batteries&#8221;; Korea: Law on quality management and control of safety of industrial products Battery regulation;  2006/66/EC EU Battery Directive; New York Env Law § 27-0719 Battery Management and Disposal</BasisDescription>
+<ReportableApplications>Batteries</ReportableApplications>
+<ReportingThreshold>Intentionally added or 0.0001 mass% of battery</ReportingThreshold>
+<ReportingLevel>Product Part</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+2013-06-10: Modified to dual reporting threshold with inclusion of "intentionally added" in reporting threshold. (CR00048)
+The battery reporting threshold level is based on the strictest known legal requirement. However, for simplification, the same reporting threshold level is set for all kind of batteries, even if the underlying legal requirement is only applicable for only one specific battery type.</Comments>
+</el>
+<el>
+<ID>00132</ID>
+<SubstanceGroup>Mercury/Mercury Compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Silver-oxide button cells, alkaline batteries, zinc carbon batteries</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Canadian Products Containing Mercury Regulations (SOR/2014-254)</BasisDescription>
+<ReportableApplications>Batteries</ReportableApplications>
+<ReportingThreshold>0.0005 mass% of total Hg in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-07-15</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D9.00: new entry for Canadian regulation with reporting threshold of 0.0005 mass% of total Hg in homogenous material of batteries as specified in the regulation</Comments>
+</el>
+<el>
+<ID>00031</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Nickel</SpecificSubstance>
+<CASnumber>7440-02-0</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Stainless steel, plating; Example application for prolonged skin contact is an ear bud (headphone); mobile phone</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006</BasisDescription>
+<ReportableApplications>All, where prolonged skin contact is expected</ReportableApplications>
+<ReportingThreshold>Intentionally Added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Updated typical EEE applications.
+1) Nickel must be reported in certain regulated applications where it is likely to result in prolonged skin exposure (e.g., an outer enclosure for a portable electronic product designed to be carried). Use of nickel or nickel contained in components and parts designed to be located inside the outer enclosure of a product need not be reported.  
+2)The regulatory limit for Nickel in applications of prolonged skin contact - 0.5 micrograms/sq cm/week per DIN EN 1811.
+3) Because exposure levels cannot be derived from actual concentrations, a threshold level of &#8220;intentionally added&#8221; is indicated for reporting. Suppliers may choose to report a default concentration of 0.1% by weight in the product for these substances, in lieu of determining the exact concentrations in their products, to indicate that the substance is known to be present in their product, as the actual concentration in the product is not informative for regulatory compliance assessment.</Comments>
+</el>
+<el>
+<ID>00032</ID>
+<SubstanceGroup>Ozone Depleting Substances (CFC, Halon, HBFC, HCFC &amp; others)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Refrigerant, foaming agent, extinguishant, solvent cleaner</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Law Concerning the Protection of the Ozone Layer through the Control of Specified Substances and others (Japanese law), Montreal Protocol, 1990 revision of Article 611 of the Clean Air Act (US law); Regulation (EC) No. 1005/2009 on substances that deplete the ozone layer</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally Added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Updated description of basis.</Comments>
+</el>
+<el>
+<ID>00033</ID>
+<SubstanceGroup>Perchlorates</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Lithium batteries; coin cell batteries</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>California Assembly Bill No. 826 - Perchlorate Contamination Prevention Act; implemented July 1, 2006</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>6 x 10 ^-7 mass% of battery or product part</ReportingThreshold>
+<ReportingLevel>Product Part</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D9.00: Corrected spelling of word Assembly in Basis Description 
+The only known application in use today in electronic industry is coin cell batteries.
+2013-06-10: updated reporting threshold to specifically highlight batteries as a product part for threshold calculation purposes (CR00042)</Comments>
+</el>
+<el>
+<ID>00035</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>2-benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320)</SpecificSubstance>
+<CASnumber>3846-71-7</CASnumber>
+<CommonSynonyms>UV-320; Phenol, 2-(2H-benzotriazol-2-yl)-4,6-bis(1,1-dimethlethyl)-</CommonSynonyms>
+<TypicalApplications>UV-stabilizer in adhesives, paints, printing inks, plastics, inked ribbons, putty, caulking or sealing fillers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Japan (Law Concerning the Examination and Regulation of Manufacture); Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added or 0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D8.00: The reporting threshold was updated to include 0.1 mass%. This substance was originally listed in the IEC 62474 data base as Phenol, 2-(2H-benzotriazol-2-yl)-4,6-bis(1,1-dimethlethyl)- based on the Japanese Law Concerning the Examination and Regulation of Manufacture with reporting threshold of intentionally added.</Comments>
+</el>
+<el>
+<ID>00036</ID>
+<SubstanceGroup>Phthalates, Selected Group 1 (BBP, DBP, DEHP)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive, lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006; U.S. Consumer Product Safety Improvement Act</BasisDescription>
+<ReportableApplications>Children's toy or child care article</ReportableApplications>
+<ReportingThreshold>0.1 mass% as the sum of the phthalate concentrations  in plasticized material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: This declarable substance group has a complete list of substances that is specified in the reference substance list
+D11.00: ReportingLevel added.</Comments>
+</el>
+<el>
+<ID>00037</ID>
+<SubstanceGroup>Phthalates, Selected Group 2 (DIDP, DINP, DNOP)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive, lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006; U.S. Consumer Product Safety Improvement Act</BasisDescription>
+<ReportableApplications>Children's toy or child care article that can be placed in a child's mouth</ReportableApplications>
+<ReportingThreshold>0.1 mass% as the sum of the phthalate concentrations in plasticized material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: This declarable substance group has a complete list of substances that is specified in the reference substance list
+D11.00: ReportingLevel added.</Comments>
+</el>
+<el>
+<ID>00038</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Bis (2-ethylhexyl)phthalate (DEHP)</SpecificSubstance>
+<CASnumber>117-81-7</CASnumber>
+<CommonSynonyms>Di(2-ethylhexyl)phthalate (DEHP)</CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive, lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its ammendments); Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D10.00: Changed Threshold as this substance will be restricted by EU RoHS
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00039</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Dibutyl phthalate (DBP)</SpecificSubstance>
+<CASnumber>84-74-2</CASnumber>
+<CommonSynonyms>Dibutylphthalate (DBP)</CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive, lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its ammendments); Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D10.00: Changed Threshold as this substance will be restricted by EU RoHS
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00040</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzyl butyl phthalate (BBP)</SpecificSubstance>
+<CASnumber>85-68-7</CASnumber>
+<CommonSynonyms>Benzylbutylphthalate (BBP)</CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive, lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its ammendments); Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D10.00: Changed Threshold as this substance will be restricted by EU RoHS
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00041</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Diisobutyl phthalate</SpecificSubstance>
+<CASnumber>84-69-5</CASnumber>
+<CommonSynonyms>Diisobutyl phthalate (DIBP)</CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive, lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its ammendments); Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D10.00: Changed Threshold as this substance will be restricted by EU RoHS
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00042</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich</SpecificSubstance>
+<CASnumber>71888-89-6</CASnumber>
+<CommonSynonyms>1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich (DIHP)</CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive, lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2011-10-14</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00043</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters</SpecificSubstance>
+<CASnumber>68515-42-4</CASnumber>
+<CommonSynonyms>1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters (DHNUP)</CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive, lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2011-10-14</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00044</ID>
+<SubstanceGroup>Polybrominated Biphenyls (PBBs)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Flame retardant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its amendments); China Management Measures on EIP Pollution Control; Revised law for Promotion of Effective Utilization of Resources(J-Moss)</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D10.00: Editorial update of basis description to recast RoHS Directive 2011/65/EU
+Updated description of basis</Comments>
+</el>
+<el>
+<ID>00045</ID>
+<SubstanceGroup>Polybrominated Diphenylethers (PBDEs)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Flame retardant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>2011/65/EU (EU/RoHS Directive and its amendments); China Management Measures on EIP Pollution Control; Revised law for Promotion of Effective Utilization of Resources(J-Moss); Japan Law concerning the evaluation of chemical substances</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% in homogenous material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D10.00: Editorial update of basis description to recast RoHS Directive 2011/65/EU
+Updated description of basis</Comments>
+</el>
+<el>
+<ID>00046</ID>
+<SubstanceGroup>Polychlorinated Biphenyls (PCBs) and specific substitutes</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Insulation oil, lubricant oil, electrical insulation medium, solvent, electrolytic solution, plasticizers, fire retardants, dielectric sealants</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>The Law concerning the Examination and Regulation of Manufacture etc. of Chemical Substances (Class 1 chemical substances: Japanese law - PCBs only), ANNEX XVII of REACH Regulation (EC) No 1907/2006; US Toxic Substance Control Act (TSCA)</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Updated typical EEE applications and description of basis</Comments>
+</el>
+<el>
+<ID>00047</ID>
+<SubstanceGroup>Polychlorinated Terphenyls (PCTs)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Insulation oil, lubricant oil, electrical insulation medium, solvent, electrolytic solution, plasticizers, fire retardants, coatings for electrical wire and cable, dielectric sealants</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.005 mass% in material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Updated description of basis and reporting threshold level</Comments>
+</el>
+<el>
+<ID>00048</ID>
+<SubstanceGroup>Polychlorinated Naphthalenes (PCNs)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms>Chlorinated naphthalenes</CommonSynonyms>
+<TypicalApplications>Lubricant, paint, stabilizer (electric characteristic, flame-resistant, waterresistant) insulator, flame retardant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>The Law concerning the Examination and Regulation of Manufacture etc. of Chemical Substances  (Class 1 chemical substances: Japanese law), and Regulation of the European Parliament and of the Council on persistent organic pollutants(EU No 519/2012)</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Polychlorinated Napthalenes with 1(one) or more chlorine atoms. Scope of substance group has been expanded from previous "Polychlorinated Napthalenes with more than 3 chlorine atoms" to 1 or more chlorine atoms based on additional requirements of EU POP regulation.</Comments>
+</el>
+<el>
+<ID>00049</ID>
+<SubstanceGroup>Radioactive substances</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Optical properties (thorium), measuring devices, gauges, detectors</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>U.S. Nuclear Regulatory Commission Title 10 CFR Part 20 (Appendix C); Laws for the Regulation of Nuclear Source Material, Nuclear Fuel Material, and Reactors, 1986 (Japanese law); Japan Law Concerning Prevention from Radiation Hazards; EU-D 96/29/Euratom</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Updated description of basis.  Inserted following comment:
+Regulatory thresholds for substances in these applications are based on exposure limits rather than on the concentration in the product. Examples of regulatory limits for radioactive substances -a dose rate exceeding 1 &#956;Sv h&#8211;1 at a distance of 0,1 m.
+Because exposure levels cannot be derived from actual concentrations, a threshold level of &#8220;intentionally added&#8221; is indicated for reporting. Suppliers may choose to report a default concentration of 0.1% by weight in the product for these substances, in lieu of determining the exact concentrations in their products, to indicate that the substance is known to be present in their product, as the actual concentration in the product is not informative for regulatory compliance assessment.</Comments>
+</el>
+<el>
+<ID>00050</ID>
+<SubstanceGroup>Aluminosilicate Refractory Ceramic Fibres</SubstanceGroup>
+<SpecificSubstance></SpecificSubstance>
+<CASnumber></CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Thermal insulation for high temperature test equipment</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: Aluminosilicate Refractory Ceramic Fibres are fibres covered by index number 650-017-00-8 in Annex VI, part 3, table 3.1 of Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, and fulfil the three following conditions: a) oxides of aluminium and silicon are the main components present (in the fibres) within variable concentration ranges b) fibres have a length weighted geometric mean diameter less two standard geometric errors of 6 or less micrometres (µm) c) alkaline oxide and alkali earth oxide (Na2O+K2O+CaO+MgO+BaO) content less or equal to 18% by weight.
+D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00051</ID>
+<SubstanceGroup>Zirconia Aluminosilicate Refractory Ceramic Fibres</SubstanceGroup>
+<SpecificSubstance></SpecificSubstance>
+<CASnumber></CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Thermal insulation for high temperature test equipment</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: Aluminosilicate Refractory Ceramic Fibres are fibres covered by index number 650-017-00-8 in Annex VI, part 3, table 3.1 of Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, and fulfil the three following conditions: a) oxides of aluminium and silicon are the main components present (in the fibres) within variable concentration ranges b) fibres have a length weighted geometric mean diameter less two standard geometric errors of 6 or less micrometres (µm) c) alkaline oxide and alkali earth oxide (Na2O+K2O+CaO+MgO+BaO) content less or equal to 18% by weight.
+D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00052</ID>
+<SubstanceGroup>Alkanes, C10-13, chloro (Short Chain Chlorinated Paraffins)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms>Shortchain Chlorinated Paraffins (C10 &#8211; C13)</CommonSynonyms>
+<TypicalApplications>Plasticizer for PVC, flame retardant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC; (EC) 850/2004(POPs regulation); Norway Product Regulations FOR-2004-06-01-922; Swiss Ordinance on Reduction of Risk from Chemical Products</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added or 0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+D8.00: Substance group name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+Only short-chain chlorinated paraffins with carbon length of 10-13 atoms are covered
+D7.00: updated reporting threshold</Comments>
+</el>
+<el>
+<ID>00053</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Strontium chromate</SpecificSubstance>
+<CASnumber>7789-06-2</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Pigment; corrosion resistant coating</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2011-10-14</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+D6.00: Updated the basis as this substance is now listed in the candidate list. 
+This substance contains hexavalent chromium which is also subject to "RoHS" regulation which may have a more stringent reporting threshold.  Manufactuers should evaluate this substance against both reporting thresholds.</Comments>
+</el>
+<el>
+<ID>00054</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Bis(tributyltin) oxide (TBTO)</SpecificSubstance>
+<CASnumber>56-35-9</CASnumber>
+<CommonSynonyms>Tributyl Tin Oxide (TBTO)</CommonSynonyms>
+<TypicalApplications>Antiseptic, antifungal agent, paint, pigment, antistaining, refrigerant, foaming agent, extinguishant, solvent cleaner</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>The Law concerning the Examination and Regulation of Manufacture etc. of Chemical Substances (Class 1 chemical substances: Japanese law);Candidate list (version of 29.10.2008), Article 59 (1, 10), Article 33, Article 7.2,  European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added or 0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+When two reporting thresholds are listed, the manufacturer needs to evaluate their products against both thresholds.  Reporting is required if one or both thresholds are exceeded.</Comments>
+</el>
+<el>
+<ID>00055</ID>
+<SubstanceGroup>Tri-substituted organostannic compounds</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Stabilizer, antioxidant, antibacterial and antifungal agents, antifoulant, antiseptic, anti-fungal agent, paint, pigment, antistaining</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 276/2010; Japan Law concerning the evaluation of chemical substances Norwegian product regulation</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added or 0.1 mass% of tin in the part</ReportingThreshold>
+<ReportingLevel>Product Part</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-22</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Reporting threshold modified in version D5.00</Comments>
+</el>
+<el>
+<ID>00056</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Tris(2-chloroethyl)phosphate</SpecificSubstance>
+<CASnumber>115-96-8</CASnumber>
+<CommonSynonyms>Tris (2-chloroethyl) phosphate (TCEP)</CommonSynonyms>
+<TypicalApplications>Flame retardant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2010-04-02</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.</Comments>
+</el>
+<el>
+<ID>00057</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>4-(1,1,3,3-tetramethylbutyl)phenol</SpecificSubstance>
+<CASnumber>140-66-9</CASnumber>
+<CommonSynonyms>4-(1,1,3,3-tetramethylbutyl)phenol, (4-tert-Octylphenol)</CommonSynonyms>
+<TypicalApplications>Unreacted process chemical</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-01-30</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+Added Substance in Version D3.00 (CR00005)</Comments>
+</el>
+<el>
+<ID>00058</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Bis(2-methoxyethyl) ether</SpecificSubstance>
+<CASnumber>111-96-6</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Electrolyte in lithium batteries</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>European REACH Regulation No. 1907/2006/EC (Candidate list of SVHC for authorization 19.12.2011)</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-01-30</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+Added Substance in Version D3.00 (CR00006)</Comments>
+</el>
+<el>
+<ID>00059</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Bis(2-methoxyethyl) phthalate</SpecificSubstance>
+<CASnumber>117-82-8</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Plasticizer</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>European REACH Regulation No. 1907/2006/EC (Candidate list of SVHC for authorization 19.12.2011)</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-01-30</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+Added Substance in Version D3.00 (CR00007)</Comments>
+</el>
+<el>
+<ID>00060</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Pentazinc chromate octahydroxide</SpecificSubstance>
+<CASnumber>49663-84-5</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Colorant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>European REACH Regulation No. 1907/2006/EC (Candidate list of SVHC for authorization 19.12.2011)</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-01-30</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+Added Substance in Version D3.00 (CR00009)</Comments>
+</el>
+<el>
+<ID>00061</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Potassium hydroxyoctaoxodizincatedichromate</SpecificSubstance>
+<CASnumber>11103-86-9</CASnumber>
+<CommonSynonyms>Potassium hydroxyoctaoxodizincate dichromate</CommonSynonyms>
+<TypicalApplications>Paint, anti-corrosion</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-01-30</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: Reporting threshold modified to specify that &#8220;0.1 mass%&#8221; is relative to the mass of the &#8220;article&#8221;  as per the European Court of Justice ruling of 10 September 2015. ReportingLevel added.
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+Added Substance in Version D3.00 (CR00010).</Comments>
+</el>
+<el>
+<ID>00062</ID>
+<SubstanceGroup>Chlorinated Flame Retardants (CFR)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>flame retardant for housing, connectors, package molding sealing</TypicalApplications>
+<Basis>Criteria 3: For Information Only</Basis>
+<BasisDescription>Joint JEDEC/ECA JS-709A Standard Defining &#8220;Low Halogen&#8221; Electronics</BasisDescription>
+<ReportableApplications>Plastic materials except printed wiring board laminates</ReportableApplications>
+<ReportingThreshold>0.1 mass% chlorine in plastic materials</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Optional</ReportingRequirement>
+<FirstAdded>2013-01-30</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D7.00: clarified reporting threshold to specify material
+Added Substance in Version D3.00 (CR00012)
+A printed wiring board laminate refers to the layered board materials excluding surface finishing and components</Comments>
+</el>
+<el>
+<ID>00063</ID>
+<SubstanceGroup>Chlorinated Flame Retardants (CFR)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>flame retardant</TypicalApplications>
+<Basis>Criteria 3: For Information Only</Basis>
+<BasisDescription>IPC-4101 and IEC 61249-2-21</BasisDescription>
+<ReportableApplications>Printed Wiring Board (PWB) Laminates</ReportableApplications>
+<ReportingThreshold>0.09 mass% total chlorine content in laminate</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Optional</ReportingRequirement>
+<FirstAdded>2013-01-30</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+Added Substance in Version D3.00 (CR00013)
+A printed wiring board laminate refers to the layered board materials excluding surface finishing and components</Comments>
+</el>
+<el>
+<ID>00064</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Bis(pentabromophenyl) ether (decabromodiphenyl ether) (DecaBDE)</SpecificSubstance>
+<CASnumber>1163-19-5</CASnumber>
+<CommonSynonyms>Decabromodiphenyl ether; Bis(pentabromophenyl ether); DecaBDE; Deca-BDE; 2,3,4,5,6-Pentabromo-1-(2,3,4,5,6-pentabromophenoxy)benzene; BDE-209</CommonSynonyms>
+<TypicalApplications>Flame retardant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+Added substance in version D4.00 (CR00014)</Comments>
+</el>
+<el>
+<ID>00065</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Sulfurous acid, lead salt, dibasic</SpecificSubstance>
+<CASnumber>62229-08-7</CASnumber>
+<CommonSynonyms>sulfurous acid, lead; basic lead sulfite and lead sulfite</CommonSynonyms>
+<TypicalApplications>Heat stabilizer for PVC, for example for wiring and cabling insulation</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00015)</Comments>
+</el>
+<el>
+<ID>00066</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>1,2-bis(2-methoxyethoxy)ethane (TEGDME; triglyme)</SpecificSubstance>
+<CASnumber>112-49-2</CASnumber>
+<CommonSynonyms>Triglyme, TEGDME, Triethylene glycol dimethyl ether, Ansul Ether 161, DMTG, Ethane 1,2-bis(2-methoxyethoxy)-, Glyme 4, Hisolve MTM, Methyltriglyme, NSC 66400</CommonSynonyms>
+<TypicalApplications>Solvent may be used in battery electrolytes for lithium batteries. May be in found in printing inks.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00016)</Comments>
+</el>
+<el>
+<ID>00067</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Trilead dioxide phosphonate</SpecificSubstance>
+<CASnumber>12141-20-7</CASnumber>
+<CommonSynonyms>Lead phosphite, dibasic; Lead oxide phosphonate; plumbous phosphite</CommonSynonyms>
+<TypicalApplications>Heat stabilizer for PVC, for example for wiring and cabling insulation</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00017)</Comments>
+</el>
+<el>
+<ID>00068</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>1,2-dimethoxyethane; ethylene glycol dimethyl ether (EGDME)</SpecificSubstance>
+<CASnumber>110-71-4</CASnumber>
+<CommonSynonyms>1,2-Ethanediol, dimethyl ether; 2,5-Dioxahexane; DME; DME (glycol ether); Dimethyl Cellosolve; Ethylene dimethyl ether; Glycol dimethyl ether; Glyme; Hisolve MMM; Monoethylene glycol dimethyl ether; Monoglyme; NSC 60542; &#945;,&#946;-Dimethoxyethane</CommonSynonyms>
+<TypicalApplications>Solvent used in battery electrolytes for lithium batteries. May be in found in printing inks and paint strippers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00018)</Comments>
+</el>
+<el>
+<ID>00069</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>4-Aminoazobenzene</SpecificSubstance>
+<CASnumber>60-09-3</CASnumber>
+<CommonSynonyms>4-Phenylazoaniline, Aniline Yellow</CommonSynonyms>
+<TypicalApplications>Used as yellow pigment and in inks, including inks for inkjet printers. It is also used as a dye for lacquer, varnish, wax products, oil stains and styrene resins.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00019</Comments>
+</el>
+<el>
+<ID>00070</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Tetralead trioxide sulphate</SpecificSubstance>
+<CASnumber>12202-17-4</CASnumber>
+<CommonSynonyms>Tetralead trioxide sulfate; Lead tribasic sulfate; Tribasic lead sulfate; Lead oxide sulfate; Lead sulfate tribasic; Lead oxide sulfate monohydrate; Lead(2+) sulfate - oxo-L2-plumbane (1:3)</CommonSynonyms>
+<TypicalApplications>Heat stabilizer for PVC, for example for wiring and cabling insulation</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+Added substance in version D4.00 (CR00020)</Comments>
+</el>
+<el>
+<ID>00071</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Orange lead (lead tetroxide)</SpecificSubstance>
+<CASnumber>1314-41-6</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Used in rust-proof primer paints</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00021)</Comments>
+</el>
+<el>
+<ID>00072</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Pyrochlore, antimony lead yellow</SpecificSubstance>
+<CASnumber>8012-00-8</CASnumber>
+<CommonSynonyms>Lead antimonate</CommonSynonyms>
+<TypicalApplications>Used as yellow pigment for coloring plastics and paint</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00022)</Comments>
+</el>
+<el>
+<ID>00073</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Pentalead tetraoxide sulphate</SpecificSubstance>
+<CASnumber>12065-90-6</CASnumber>
+<CommonSynonyms>Tetrabasic lead sulfate and lead oxide sulfate</CommonSynonyms>
+<TypicalApplications>Heat stabilizer for plastics; for example, non-transparent PVC</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00023)</Comments>
+</el>
+<el>
+<ID>00074</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>1,2-Diethoxyethane</SpecificSubstance>
+<CASnumber>629-14-1</CASnumber>
+<CommonSynonyms>Diethyl glycol; Ethylene Glycol Diethyl Ether</CommonSynonyms>
+<TypicalApplications>Solvent used in electrolytes for lithium batteries.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00024)</Comments>
+</el>
+<el>
+<ID>00075</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Diboron trioxide</SpecificSubstance>
+<CASnumber>1303-86-2</CASnumber>
+<CommonSynonyms>Boron oxide, Boron sequioxide</CommonSynonyms>
+<TypicalApplications>Found in wood veneers, glass/fiberoptics and ceramics - for industrial applications</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00025)</Comments>
+</el>
+<el>
+<ID>00076</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Dibutyltin dichloride (DBTC)</SpecificSubstance>
+<CASnumber>683-18-1</CASnumber>
+<CommonSynonyms>Dibutyldichlorotin</CommonSynonyms>
+<TypicalApplications>Ingredient in some paint thinner and as heat stabilizer for PVC</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Removed Dibutyltin (DBT) compounds Substance Group; 
+D5.00: trailing space and semicolon removed from substance name
+D4.00: Added substance  (CR00026)</Comments>
+</el>
+<el>
+<ID>00077</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Lead cyanamidate</SpecificSubstance>
+<CASnumber>20837-86-9</CASnumber>
+<CommonSynonyms>Cyanamide,lead(2+)salt(1:1)</CommonSynonyms>
+<TypicalApplications>Used in anticorrosion coatings e.g. steel articles</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00 - correction made to the spelling of the substance name.
+Added substance in version D4.00 (CR00027)</Comments>
+</el>
+<el>
+<ID>00078</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>N,N-dimethylformamide</SpecificSubstance>
+<CASnumber>68-12-2</CASnumber>
+<CommonSynonyms>Formyldimethylamine</CommonSynonyms>
+<TypicalApplications>Used as electrolyte in electrolytic capacitors rated for low temperature use to -55C.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00028)</Comments>
+</el>
+<el>
+<ID>00079</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Silicic acid (H2Si2O5), barium salt (1:1), lead-doped</SpecificSubstance>
+<CASnumber>68784-75-8</CASnumber>
+<CommonSynonyms>Barium silicate; lead doped</CommonSynonyms>
+<TypicalApplications>Used in UV emitting light bulbs and lamps</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00:  REACH Candidate list for European REACH Regulation No. 1907/2006/EC provides the more detailed entry "Silicic acid (H2Si2O5), barium salt (1:1), lead-doped [with lead (Pb) content above the applicable generic concentration limit for &#8217;toxicity for reproduction&#8217; Repr. 1A (CLP) or category 1 (DSD); the substance is a member of the group entry of lead compounds, with index number 082-001-00-6 in Regulation (EC) No 1272/2008]"
+D5.00 - trailing space removed from substance name
+Added substance in version D4.00 (CR00029);</Comments>
+</el>
+<el>
+<ID>00080</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>1,2-Benzenedicarboxylic acid, dipentylester, branched and linear</SpecificSubstance>
+<CASnumber>84777-06-0</CASnumber>
+<CommonSynonyms>bis-C5-alkyl-(linear and branched)phthalate</CommonSynonyms>
+<TypicalApplications>Plasticizer in plastic materials in specialist applications, for example where high solvating plasticizers and stain resistance are required</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00030)</Comments>
+</el>
+<el>
+<ID>00081</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Diisopentylphthalate</SpecificSubstance>
+<CASnumber>605-50-5</CASnumber>
+<CommonSynonyms>1,2-Benzenedicarboxylic acid, bis(3-methylbutyl)ester; Diisoamyl phthalate; Isoamyl phthalate</CommonSynonyms>
+<TypicalApplications>Plasticizer in plastic materials in specialist applications, for example where high solvating plasticizers and stain resistance are required</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+Added substance in version D4.00 (CR00031)</Comments>
+</el>
+<el>
+<ID>00082</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>N-pentyl-isopentylphthalate</SpecificSubstance>
+<CASnumber>776297-69-9</CASnumber>
+<CommonSynonyms>n-Pentyl-isopentyl phthalate; 1,2-Benzenedicarboxylic acid, 3-methylbutylpentyl ester</CommonSynonyms>
+<TypicalApplications>Plasticizer in plastic materials in specialist applications, for example where high solvating plasticizers and stain resistance are required</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00032)</Comments>
+</el>
+<el>
+<ID>00083</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Lead titanium trioxide</SpecificSubstance>
+<CASnumber>12060-00-3</CASnumber>
+<CommonSynonyms>C.I. Pigment Yellow 47; Lead titanate; Lead titanate (PbO.TiO2); Lead titanate (PbTiO3); Pigment Yellow 47</CommonSynonyms>
+<TypicalApplications>In piezoelectric components, ultrasound transducers, gas igniters, ultrasonic motors, ceramic capacitors and other electronic components that use piezoelectric materials</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00033)</Comments>
+</el>
+<el>
+<ID>00084</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Lead titanium zirconium oxide</SpecificSubstance>
+<CASnumber>12626-81-2</CASnumber>
+<CommonSynonyms>Lead titanate zirconate; Lead titanate zirconate (Pb(Ti,Zr)O3); Lead titanate zirconate (PbTi0-1Zr0-1O3); Lead titanium zirconium oxide (PbTi0-1Zr0-1O3); Lead zirconate titanate</CommonSynonyms>
+<TypicalApplications>In piezoelectric components, ultrasound transducers, gas igniters, ultrasonic motors, ceramic capacitors and other electronic components that use piezoelectric materials</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00034)</Comments>
+</el>
+<el>
+<ID>00085</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Lead oxide sulfate</SpecificSubstance>
+<CASnumber>12036-76-9</CASnumber>
+<CommonSynonyms>Lead sulphate, basic;lead</CommonSynonyms>
+<TypicalApplications>Heat stabilizer for PVC used for wiring and cabling insulation.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00035)</Comments>
+</el>
+<el>
+<ID>00086</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>[Phthalato(2-)]dioxotrilead</SpecificSubstance>
+<CASnumber>69011-06-9</CASnumber>
+<CommonSynonyms>1,2-Benzenedicarboxylic acid, lead complex</CommonSynonyms>
+<TypicalApplications>Heat stabilizer for plastics, for example for wiring and cabling insulation.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00036)</Comments>
+</el>
+<el>
+<ID>00087</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Dioxobis(stearato)trilead</SpecificSubstance>
+<CASnumber>12578-12-0</CASnumber>
+<CommonSynonyms>Octadecanoic acid, lead complex</CommonSynonyms>
+<TypicalApplications>Heat stabilizer for plastics, for example for wiring and cabling insulation.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00037)</Comments>
+</el>
+<el>
+<ID>00088</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Fatty acids, C16-18, lead salts</SpecificSubstance>
+<CASnumber>91031-62-8</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Heat stabilizer for plastics, for example for wiring and cabling insulation.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00038)</Comments>
+</el>
+<el>
+<ID>00089</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Lead dinitrate</SpecificSubstance>
+<CASnumber>10099-74-8</CASnumber>
+<CommonSynonyms>Plumbous nitrate</CommonSynonyms>
+<TypicalApplications>Heat stabilizer in nylon and polyesters, also used as a coating on paper for photo thermography.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added substance in version D4.00 (CR00039)</Comments>
+</el>
+<el>
+<ID>00090</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Di-isodecyl phthalate (DIDP)</SpecificSubstance>
+<CASnumber>68515-49-1, 26761-40-0</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive,lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>California Prop 65</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D8.00 - replaced the word "and" with a comma to separate the CAS#'s.
+Added substance in version D4.00 (CR00040)</Comments>
+</el>
+<el>
+<ID>00091</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Di-n-hexyl Phthalate (DnHP)</SpecificSubstance>
+<CASnumber>84-75-3</CASnumber>
+<CommonSynonyms>Dihexyl phthalate; DnHP</CommonSynonyms>
+<TypicalApplications>Plasticizer, dye, pigment, paint, ink, adhesive, lubricant</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>California Prop 65; Candidate list for European REACH Regulation No.1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added or 0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-06-10</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Added synonym Dihexyl phthalate corresponding to REACH Candidate List;
+D6.00: Changed reporting threshold and basis description to reflect  addition of substance to Candidate list for European REACH Regulation No.1907/2006/EC (C00089);
+D4.00: Added substance  (C00041)</Comments>
+</el>
+<el>
+<ID>00092</ID>
+<SubstanceGroup>Hexahydromethylphthalic anhydride</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms>None</CommonSynonyms>
+<TypicalApplications>Primary use is as a hardener for epoxy resins.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-09-25</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: This declarable substance group has a complete list of substances that is specified in the reference substance list 
+Note: The full description in the REACH Candidate List is "Hexahydromethylphthalic anhydride [1], Hexahydro-4-methylphthalic anhydride [2], Hexahydro-1-methylphthalic anhydride [3], Hexahydro-3-methylphthalic anhydride [4] [The individual isomers [2], [3] and [4] (including their cis- and trans- stereo isomeric forms) and all possible combinations of the isomers [1] are covered by this entry] "
+D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D9.00: Corrected the misspelling of "hardener" in the TypicalApplications  
+D8.00: changed information in Specific Substance field to point to reference substance list (RSL). 
+D5.00: Added entry</Comments>
+</el>
+<el>
+<ID>00093</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Cadmium</SpecificSubstance>
+<CASnumber>7440-43-9</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Pigments, anti-corrosion surface treatments, optical glass, heat stabilizers, plating, fluorescent materials, electrodes, low melting solders, electric contacts, zinc plating, photoelectric applications, phosphor coatings, bearing alloys</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-09-25</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added in version D5.00</Comments>
+</el>
+<el>
+<ID>00094</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Cadmium oxide</SpecificSubstance>
+<CASnumber>1306-19-0</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Relay contact; photodiode voltaic cell, Ni/Cd battery</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-09-25</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added in version D5.00</Comments>
+</el>
+<el>
+<ID>00095</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Dipentyl phthalate (DPP)</SpecificSubstance>
+<CASnumber>131-18-0</CASnumber>
+<CommonSynonyms>DPP; amoil; amylphthalate; amyl phthalate; di-n-phthalate; ai3-00363(usda); diamyl phthalate; dipentyl phthalate; diI-n-amyl phthalate; di-1-pentylphthalate</CommonSynonyms>
+<TypicalApplications>Plasticizer in PVC and nitrocellulose resin and rubber; in gunpowder, toys, cosmetics, medical devices</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-09-25</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+Added in version D5.00</Comments>
+</el>
+<el>
+<ID>00096</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Pentadecafluorooctanoic acid (PFOA)</SpecificSubstance>
+<CASnumber>335-67-1</CASnumber>
+<CommonSynonyms>Perfluorooctanoic Acid;
+PFOA;
+Pentadecafluoro-1-octanoic acid;
+Perfluorocaprylic acid;
+Perfluoroheptanecarboxylic acid;
+Perfluoro-n-octanoic acid;
+Pentadecafluoro-n-octanoic acid;
+Pentadecafluorooctanoic acid;
+n-Perfluorooctanoic acid
+1-Octanoic acid, 2,2,3,3,4,4,5,5,6,6, 7,7,8,8,8-pentadecafluoro</CommonSynonyms>
+<TypicalApplications>PFOA is used as an emulsion stabilizer to manufacture polyvinylidine fluoride (PVDF) and other fluorinated polymers and elastomers and can be found in concentrations up to 1% w/w in these plastics.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-09-25</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Substance name modified to match with Candidate list for European REACH Regulation No. 1907/2006/EC.
+Added in version D5.00</Comments>
+</el>
+<el>
+<ID>00097</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Ammonium pentadecafluorooctanoate (APFO)</SpecificSubstance>
+<CASnumber>3825-26-1</CASnumber>
+<CommonSynonyms>Octanoic acid, pentadecafluoro-, ammonium salt; Ammonium
+pentadecafluorooctanoate; Ammonium perfluorocaprylate;
+Ammonium perfluorooctanoate; CXR 1002; DS 101; FC
+1015; FC 143; FX 1006; Fluorad FC 143; Perfluorooctanoic
+acid ammonium salt; Unidyne DS 101</CommonSynonyms>
+<TypicalApplications>APFO is used as an emulsion stabilizer to manufacture polyvinylidine fluoride (PVDF) and other fluorinated polymers and elastomers and can be found in concentrations up to 1% w/w in these plastics.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-09-25</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+Added version D5.00</Comments>
+</el>
+<el>
+<ID>00098</ID>
+<SubstanceGroup>4-Nonylphenol, branched and linear, ethoxylated</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Nonylphenol ethoxylates are used in paints, lacquers and varnishes in concentrations up to 10% w/w of the mixture.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2013-09-25</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>The substance name is identified on the EU REACH Candidate List as "4-Nonylphenol, branched and linear, ethoxylated [substances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in position 4 to phenol, ethoxylated covering UVCB- and well-defined substances, polymers and homologues, which include any of the individual isomers and/or combinations thereof]"
+D11.00: Substance description was removed from the substance name. The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D9.00: The substance name was simplified to remove the portion in square brackets and the full Candidate List name is included in the comment field above.   
+D5.00: Added in version D5.00</Comments>
+</el>
+<el>
+<ID>00099</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Cadmium sulphide</SpecificSubstance>
+<CASnumber>1306-23-6</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Used in photo-resistors, solar cells and piezoelectric tranducers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-04-09</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D8.00: Removed Cadmium/Cadmium Compounds Substance Group; 
+D6.00: added substance entry</Comments>
+</el>
+<el>
+<ID>00100</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Trixylyl phosphate</SpecificSubstance>
+<CASnumber>25155-23-1</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Used as a plasticizer for vinyl resin, cellulose resin, natural and synthetic rubber.  Also, used as a flame retardant.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-04-09</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D6.00: added substance entry</Comments>
+</el>
+<el>
+<ID>00102</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Disodium 3,3'-[[1,1'-biphenyl]-4,4'-diylbis(azo)]bis(4-aminonaphthalene-1-sulphonate) (C.I. Direct Red 28)</SpecificSubstance>
+<CASnumber>573-58-0</CASnumber>
+<CommonSynonyms>Congo Red</CommonSynonyms>
+<TypicalApplications>Dye for textiles and paper</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-04-09</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D6.00: added substance entry</Comments>
+</el>
+<el>
+<ID>00103</ID>
+<SubstanceGroup>Perfluorooctanoic acid (PFOA) and individual salts and esters of PFOA</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Textiles, photographic coatings applied to films, paper or printing plates and other coated consumer products.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Norwegian products regulation Section 2-32</BasisDescription>
+<ReportableApplications>Textiles, photographic coatings applied to films, paper or printing plates and other coated consumer products.</ReportableApplications>
+<ReportingThreshold>1 microgram/m2 (as the sum of PFOA)</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-04-09</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: This declarable substance group has a complete list of substances that is specified in the reference substance list
+D11.00: ReportingLevel added.
+D6.00: added substance group entry;</Comments>
+</el>
+<el>
+<ID>00104</ID>
+<SubstanceGroup>Perfluorooctanoic acid (PFOA) and individual salts and esters of PFOA</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Textiles, photographic coatings applied to films, paper or printing plates and other coated consumer products.</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Norwegian products regulation Section 2-32</BasisDescription>
+<ReportableApplications>All except textiles, photographic coatings applied to films, paper or printing plates and other coated consumer products.</ReportableApplications>
+<ReportingThreshold>0.1 mass% of the part (as the sum of PFOA)</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-04-09</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>Note: This declarable substance group has a complete list of substances that is specified in the reference substance list
+D11.00: ReportingLevel added.
+D6.00: added substance group entry;</Comments>
+</el>
+<el>
+<ID>00105</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Imidazolidine-2-thione; (2-imidazoline-2-thiol)</SpecificSubstance>
+<CASnumber>96-45-7</CASnumber>
+<CommonSynonyms>ethylene thiourea</CommonSynonyms>
+<TypicalApplications>used as a catalyst in some acrylic adhesive glues which may be used in adhesive tapes (for example, double sided adhesive tapes which may be used to hold the back-light in place in mobile phones)</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-04-09</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D6.00: added substance entry</Comments>
+</el>
+<el>
+<ID>00106</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>1,2-Benzenedicarboxylic acid, dihexyl ester, branched and linear</SpecificSubstance>
+<CASnumber>68515-50-4</CASnumber>
+<CommonSynonyms>Diisohexyl phthalate (DiHP)</CommonSynonyms>
+<TypicalApplications>Used as a plasticizer for certain plastics and rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015", and set ReportingLevel to Article. 
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00107</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Diisononyl phthalate (DINP)</SpecificSubstance>
+<CASnumber>28553-12-0, 68515-48-0</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Used as a plasticizer for PVC</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>California Prop 65</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00108</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[a]pyrene</SpecificSubstance>
+<CASnumber>50-32-8</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts that come into direct, prolonged or repetitive skin or oral cavity contact except those for toys or childcare articles</ReportableApplications>
+<ReportingThreshold>0.0001 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00109</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[e]pyrene</SpecificSubstance>
+<CASnumber>192-97-2</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts that come into direct, prolonged or repetitive skin or oral cavity contact except those for toys or childcare articles</ReportableApplications>
+<ReportingThreshold>0.0001 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00110</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[a]anthracene</SpecificSubstance>
+<CASnumber>56-55-3</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts that come into direct, prolonged or repetitive skin or oral cavity contact except those for toys or childcare articles</ReportableApplications>
+<ReportingThreshold>0.0001 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00111</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Chrysen</SpecificSubstance>
+<CASnumber>218-01-9</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts that come into direct, prolonged or repetitive skin or oral cavity contact except those for toys or childcare articles</ReportableApplications>
+<ReportingThreshold>0.0001 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00112</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[b]fluoranthene</SpecificSubstance>
+<CASnumber>205-99-2</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts that come into direct, prolonged or repetitive skin or oral cavity contact except those for toys or childcare articles</ReportableApplications>
+<ReportingThreshold>0.0001 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00113</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[j]fluoranthene</SpecificSubstance>
+<CASnumber>205-82-3</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts that come into direct, prolonged or repetitive skin or oral cavity contact except those for toys or childcare articles</ReportableApplications>
+<ReportingThreshold>0.0001 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00114</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[k]fluoranthene</SpecificSubstance>
+<CASnumber>207-08-9</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts that come into direct, prolonged or repetitive skin or oral cavity contact except those for toys or childcare articles</ReportableApplications>
+<ReportingThreshold>0.0001 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00115</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Dibenzo[a,h]anthracene</SpecificSubstance>
+<CASnumber>53-70-3</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts that come into direct, prolonged or repetitive skin or oral cavity contact except those for toys or childcare articles</ReportableApplications>
+<ReportingThreshold>0.0001 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00116</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[a]pyrene</SpecificSubstance>
+<CASnumber>50-32-8</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts of toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact</ReportableApplications>
+<ReportingThreshold>0.00005 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00117</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[e]pyrene</SpecificSubstance>
+<CASnumber>192-97-2</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts of toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact</ReportableApplications>
+<ReportingThreshold>0.00005 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00118</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[a]anthracene</SpecificSubstance>
+<CASnumber>56-55-3</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts of toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact</ReportableApplications>
+<ReportingThreshold>0.00005 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00119</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Chrysen</SpecificSubstance>
+<CASnumber>218-01-9</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts of toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact</ReportableApplications>
+<ReportingThreshold>0.00005 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00120</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[b]fluoranthene</SpecificSubstance>
+<CASnumber>205-99-2</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts of toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact</ReportableApplications>
+<ReportingThreshold>0.00005 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00121</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[j]fluoranthene</SpecificSubstance>
+<CASnumber>205-82-3</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts of toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact</ReportableApplications>
+<ReportingThreshold>0.00005 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00122</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[k]fluoranthene</SpecificSubstance>
+<CASnumber>207-08-9</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts of toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact</ReportableApplications>
+<ReportingThreshold>0.00005 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00123</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Dibenzo[a,h]anthracene</SpecificSubstance>
+<CASnumber>53-70-3</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>ANNEX XVII of REACH Regulation (EC) No 1907/2006 and Commission Regulation (EU) No 1272/2013</BasisDescription>
+<ReportableApplications>Rubber or plastic parts of toys and childcare articles that come into direct, prolonged or repetitive skin or oral cavity contact</ReportableApplications>
+<ReportingThreshold>0.00005 mass% of the plastic or rubber part</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This declarable substance is a polycyclic aromatic hydrocarbon (PAH); 
+D11.00: ReportingLevel added.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00124</ID>
+<SubstanceGroup>Perfluorooctane sulfonates (PFOS)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Antistatic agent for films and plastics</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>(EC) 850/2004(POPs regulation); Canadian Environmental Protection Act SOR/SOR/2008-178; Japan Law concerning the evaluation of chemical substances</BasisDescription>
+<ReportableApplications>Textiles or other coated materials.</ReportableApplications>
+<ReportingThreshold>Intentionally added or 1 microgram/m2 of coated material</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>When two reporting thresholds are listed, the manufacturer needs to evaluate their products against both thresholds.  Reporting is required if one or both thresholds are exceeded.
+D11.00: ReportingLevel added.
+D7.00: This entry and entry with ID 00125 replace 00034</Comments>
+</el>
+<el>
+<ID>00125</ID>
+<SubstanceGroup>Perfluorooctane sulfonates (PFOS)</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Antistatic agent for films and plastics</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>(EC) 850/2004(POPs regulation); Canadian Environmental Protection Act SOR/SOR/2008-178; Japan Law concerning the evaluation of chemical substances</BasisDescription>
+<ReportableApplications>All except textiles or other coated materials.</ReportableApplications>
+<ReportingThreshold>Intentionally added or 0.1 mass% of the part (as the sum of PFOS)</ReportingThreshold>
+<ReportingLevel>Material</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>This entry replaces (in part) the original PFOS entry 00034. 
+When two reporting thresholds are listed, the manufacturer needs to evaluate their products against both thresholds.  Reporting is required if one or both thresholds are exceeded.
+D11.00: ReportingLevel added.
+D7.00: This entry and entry with ID 00124 replace 00034</Comments>
+</el>
+<el>
+<ID>00126</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Disodium 4-amino-3-[[4'-[(2,4-diaminophenyl)azo][1,1'-biphenyl]-4-yl]azo]-5-hydroxy-6-(phenylazo)naphthalene-2,7-disulphonate (C.I. Direct Black 38)</SpecificSubstance>
+<CASnumber>1937-37-7</CASnumber>
+<CommonSynonyms>Direct Black 38</CommonSynonyms>
+<TypicalApplications>Used in ink for printers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2014-09-24</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D7.00: Added Substance</Comments>
+</el>
+<el>
+<ID>00127</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzenamine, N-phenyl-, reaction products with styrene and 2,4,4-trimethylpentene</SpecificSubstance>
+<CASnumber>68921-45-9</CASnumber>
+<CommonSynonyms>BNST</CommonSynonyms>
+<TypicalApplications>Lubricating agent in motors, storage drives;  lubricant additive (antioxidant/corrosion inhibitor/tarnish inhibitor/scavenger/antiscaling agent), mould release agent; organic chemical for industrial use</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Prohibition of Certain Toxic Substances Regulations, 2012, CANADA</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added</ReportingThreshold>
+<ReportingLevel>Product</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-04-08</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: ReportingLevel added.
+D8.00: Substance added</Comments>
+</el>
+<el>
+<ID>00128</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate (DOTE)</SpecificSubstance>
+<CASnumber>15571-58-1</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>PVC stabilizer</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-04-08</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D8.00: Substance added</Comments>
+</el>
+<el>
+<ID>00129</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>reaction mass of 2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate and 2-ethylhexyl 10-ethyl-4-[[2-[(2-ethylhexyl)oxy]-2-oxoethyl]thio]-4-octyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate (reaction mass of DOTE and MOTE)</SpecificSubstance>
+<CASnumber></CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>PVC stabilizer</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-04-08</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D8.00: Substance added</Comments>
+</el>
+<el>
+<ID>00130</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>2-(2H-benzotriazol-2-yl)-4,6-ditertpentylphenol (UV-328)</SpecificSubstance>
+<CASnumber>25973-55-1</CASnumber>
+<CommonSynonyms>UV-328</CommonSynonyms>
+<TypicalApplications>UV stabilizer</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-04-08</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D8.00: Substance added</Comments>
+</el>
+<el>
+<ID>00131</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>1,2-benzenedicarboxylic acid, di-C6-10-alkyl esters; 1,2-benzenedicarboxylic acid, mixed decyl and hexyl and octyl diesters with &#8805; 0.3% of dihexyl phthalate (EC No. 201-559-5)</SpecificSubstance>
+<CASnumber>68515-51-5, 68648-93-1</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Plasticisers, lubricants, adhesives, coatings, cable compounding, polymer foils, PVC compound coatings, paints, thinners, paint removers, fillers, putties, plasters, ink and toners, greases, release products, polymer preparations and compounds, and semiconductors</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-07-15</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D9.00: Substance added</Comments>
+</el>
+<el>
+<ID>00133</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>1,3-propanesultone</SpecificSubstance>
+<CASnumber>1120-71-4</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Electrolyte fluid of rechargeable lithium ion batteries</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-12-17</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D10.00: Substance added</Comments>
+</el>
+<el>
+<ID>00134</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol (UV-327)</SpecificSubstance>
+<CASnumber>3864-99-1</CASnumber>
+<CommonSynonyms>UV-327</CommonSynonyms>
+<TypicalApplications>UV stabilizer</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-12-17</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D10.00: Substance added</Comments>
+</el>
+<el>
+<ID>00135</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>2-(2H-benzotriazol-2-yl)-4-(tert-butyl)-6-(sec-butyl)phenol (UV-350)</SpecificSubstance>
+<CASnumber>36437-37-3</CASnumber>
+<CommonSynonyms>UV-350</CommonSynonyms>
+<TypicalApplications>UV stabilizer</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-12-17</FirstAdded>
+<LastRevised>2016-03-28</LastRevised>
+<Comments>D11.00: The reporting threshold has been updated to align with the European Court of Justice ruling "JUDGMENT OF THE COURT (Third Chamber) 10 September 2015" and set ReportingLevel to Article.
+D10.00: Substance added</Comments>
+</el>
+<el>
+<ID>00140</ID>
+<SubstanceGroup>Perfluorononan-1-oic-acid and its sodium and ammonium salts</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Surfactant in the production of the fluoropolymer polyvinylidene fluoride (PVDF)</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2015-12-17</FirstAdded>
+<LastRevised>2016-06-23</LastRevised>
+<Comments>Note: This declarable substance group has a complete list of substances that is specified in the reference substance list
+D12.00: Moved entry from declarable substance to declarable substance group (ID has been updated from 00137 to 00140)
+D11.00: add agreed wording
+D10.00: Substance added</Comments>
+</el>
+<el>
+<ID>00138</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>Benzo[def]chrysene</SpecificSubstance>
+<CASnumber>50-32-8</CASnumber>
+<CommonSynonyms>Benzo[a]pyrene</CommonSynonyms>
+<TypicalApplications>Impurities in carbon black, which is used as coloring agent in plastics and softener in rubbers</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No. 1907/2006/EC</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2016-06-23</FirstAdded>
+<LastRevised>2016-06-23</LastRevised>
+<Comments>D12.00: Substance Added</Comments>
+</el>
+<el>
+<ID>00141</ID>
+<SubstanceGroup></SubstanceGroup>
+<SpecificSubstance>4,4&#8217;-isopropylidenediphenol</SpecificSubstance>
+<CASnumber>80-05-7</CASnumber>
+<CommonSynonyms>BPA, Bisphenol A</CommonSynonyms>
+<TypicalApplications>Antioxidant for plasticizer and PVC, ink, paint and adhesive; used as monomer in epoxy resins and  plastics</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No.1907/2006/EC); California Prop 65</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>Intentionally added or 0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2017-01-12</FirstAdded>
+<LastRevised>2017-01-12</LastRevised>
+<Comments>D13.00: Substance Added</Comments>
+</el>
+<el>
+<ID>00142</ID>
+<SubstanceGroup>Nonadecafluorodecanoic acid (PFDA) and its sodium and ammonium salts</SubstanceGroup>
+<SpecificSubstance>See Reference Substance worksheet for more details</SpecificSubstance>
+<CASnumber>See Reference Substance worksheet for more details</CASnumber>
+<CommonSynonyms></CommonSynonyms>
+<TypicalApplications>Plasticizer, lubricant, corrosion inhibitor</TypicalApplications>
+<Basis>Criteria 1: Currently Regulated</Basis>
+<BasisDescription>Candidate list for European REACH Regulation No.1907/2006/EC)</BasisDescription>
+<ReportableApplications>All</ReportableApplications>
+<ReportingThreshold>0.1 mass% of article</ReportingThreshold>
+<ReportingLevel>Article</ReportingLevel>
+<ReportingRequirement>Mandatory</ReportingRequirement>
+<FirstAdded>2017-01-12</FirstAdded>
+<LastRevised>2017-01-12</LastRevised>
+<Comments>Note: This declarable substance group has a complete list of substances that is specified in the reference substance list
+D13.00: Substance Added</Comments>
+</el>
+</DeclarableSubstances>

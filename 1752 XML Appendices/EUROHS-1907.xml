@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<SubstanceCategoryList> 
+<SubstanceCategoryListID authority="IPC" identity="EUROHS-1907"/>
+    <SubstanceCategory name="Lead/lead compounds">
+         <Threshold threshold="0.1% by weight (1 000 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00005" />
+     </SubstanceCategory>
+     <SubstanceCategory name="Mercury/mercury compounds">
+         <Threshold threshold="0.1% by weight (1 000 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00006" />
+     </SubstanceCategory>
+     <SubstanceCategory name="Cadmium/cadmium compounds">
+         <Threshold threshold="0.01% by weight (100 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00001" />
+     </SubstanceCategory>
+     <SubstanceCategory name="Chromium VI compounds">
+         <Threshold threshold="0.1% by weight (1 000 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00004" />
+     </SubstanceCategory>
+     <SubstanceCategory name="Polybrominated biphenyls (PBBs)">
+         <Threshold threshold="0.1% by weight (1 000 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00002" />		 
+     </SubstanceCategory>
+     <SubstanceCategory name="Polybrominated diphenyl ethers (PBDEs)">
+         <Threshold threshold="0.1% by weight (1 000 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00003" />
+     </SubstanceCategory>
+	  <SubstanceCategory name="Bis(2-ethylhexyl) phthalate (DEHP)">
+         <Threshold threshold="0.1% by weight (1 000 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00007" />		 
+     </SubstanceCategory>
+     <SubstanceCategory name="Butyl benzyl phthalate (BBP)">
+         <Threshold threshold="0.1% by weight (1 000 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00008" />		 
+     </SubstanceCategory>
+     <SubstanceCategory name="Dibutyl phthalate (DBP)">
+         <Threshold threshold="0.1% by weight (1 000 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00009" />
+     </SubstanceCategory>
+     <SubstanceCategory name="Diisobutyl phthalate (DIBP)">
+         <Threshold threshold="0.1% by weight (1 000 ppm) of homogenous materials"/>
+		 <SubstanceCategoryID authority="IPC" identity="00010" />
+     </SubstanceCategory>
+	 
+</SubstanceCategoryList>
+

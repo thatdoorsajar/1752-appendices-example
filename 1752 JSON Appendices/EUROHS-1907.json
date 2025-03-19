@@ -1,0 +1,60 @@
+{
+    "SubstanceCategoryList": {
+        "SubstanceCategoryListID": {
+            "_authority": "IPC",
+            "_identity": "EUROHS-1907"
+        },
+        "SubstanceCategory": [
+            {
+                "_name": "Diisobutyl phthalate (DIBP)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00010"
+            },
+            {
+                "_name": "Dibutyl phthalate (DBP)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00009"
+            },
+            {
+                "_name": "Butyl benzyl phthalate (BBP)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00008"
+            },
+            {
+                "_name": "Bis(2-ethylhexyl) phthalate (DEHP)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00007"
+            },
+            {
+                "_name": "Mercury\/mercury compounds",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00006"
+            },
+            {
+                "_name": "Lead\/lead compounds",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00005"
+            },
+            {
+                "_name": "Chromium VI compounds",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00004"
+            },
+            {
+                "_name": "Polybrominated diphenyl ethers (PBDEs)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00003"
+            },
+            {
+                "_name": "Polybrominated biphenyls (PBBs)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00002"
+            },
+            {
+                "_name": "Cadmium\/cadmium compounds",
+                "_threshold": "0.01% by weight (100 ppm) of homogenous materials",
+                "_identity": "00001"
+            }
+        ]
+    }
+}

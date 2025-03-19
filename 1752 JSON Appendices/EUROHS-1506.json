@@ -1,0 +1,30 @@
+{
+    "SubstanceCategoryList": {
+        "SubstanceCategoryListID": {
+            "_authority": "IPC",
+            "_identity": "EUROHS-1506"
+        },
+        "SubstanceCategory": [
+            {
+                "_name": "Diisobutyl phthalate (DIBP)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00004"
+            },
+            {
+                "_name": "Dibutyl phthalate (DBP)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00003"
+            },
+            {
+                "_name": "Butyl benzyl phthalate (BBP)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00002"
+            },
+            {
+                "_name": "Bis(2-ethylhexyl) phthalate (DEHP)",
+                "_threshold": "0.1% by weight (1 000 ppm) of homogenous materials",
+                "_identity": "00001"
+            }
+        ]
+    }
+}
